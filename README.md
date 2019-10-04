@@ -5,7 +5,7 @@ Detailed information on the project can be found on [our Wiki](https://2019.igem
 
 
 ## aNSo - artificial Nuclear integration Site option
-This folder contains a python script to find artificial Nuclear integration Site options in a genome. Furthermore, it contains the input data used to find aNSo in the genome of *Synechococcus elongatus* UTEX 2973 and the generated results for *S. elongatus*.
+This folder contains a Python script to find artificial Nuclear integration Site options in a genome. Furthermore, it contains the input data used to find aNSo in the genome of *Synechococcus elongatus* UTEX 2973 and the generated results for *S. elongatus*.
 
 
 ## The Trained Colony Picker AI
