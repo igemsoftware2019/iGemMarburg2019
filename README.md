@@ -6,6 +6,7 @@ Detailed information on the project can be found on [our Wiki](https://2019.igem
 
 ## aNSo - artificial Nuclear integration Site option
 This folder contains a Python script to find artificial Nuclear integration Site options in a genome. Furthermore, it contains the input data used to find aNSo in the genome of *Synechococcus elongatus* UTEX 2973 and the generated results for *S. elongatus*.
+
 To run this script Python 3 is required, using the modules SeqIO from Bio, pandas, re and os.
 
 
@@ -13,7 +14,7 @@ To run this script Python 3 is required, using the modules SeqIO from Bio, panda
 
 
 
-## Cloning Protocols
+## GUI and Cloning Protocols
 
 
 
