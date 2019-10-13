@@ -1,7 +1,7 @@
 # iGEMMarburg2019
 
-This is iGEM team Marburgs 2019 GitHub Repository.<\br>
-Detailed information on the project can be found on [our Wiki](https://2019.igem.org/Team:Marburg).<\br>
+This is iGEM team Marburgs 2019 GitHub Repository.<br/>
+Detailed information on the project can be found on [our Wiki](https://2019.igem.org/Team:Marburg).<br/>
 Our software is provided open-source under the GNU General Public License version 3 (GLPv3) and our hardware is provided open-source under the CERN Open Hardware Licence version 1.2 (CERN OHL).
 
 
