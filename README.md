@@ -40,5 +40,5 @@ amount = 6
 
 
 
-### Authors
+### Authors and Copyright (C)
 iGem Marburg 2019
