@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG20190726151237.jpg</filename>
+	<path>C:\Users\Vinca\Desktop\models-master\research\object_detection\images\test\IMG20190726151237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>colony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>494</ymin>
+			<xmax>364</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>
