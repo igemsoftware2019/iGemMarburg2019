@@ -11,6 +11,17 @@ GNU General Public License for more details. <br/>
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+## Setup
+
+To copy the code to your local machine use:
+
+```sh
+$ git clone https://github.com/wab8/iGemMarburg2019.git
+$ cd iGemMarburg2019/AI
+```
+
+**Note:** Make sure you have installed [Docker](https://docs.docker.com/v17.12/install/).
+
 ## Create new AI
 
 - Use the image from `training.dockerfile` (`docker build -f training.dockerfile -t <image tag> .`)
@@ -37,3 +48,7 @@ docker run \
   -v <output path>:/processed \
   <image tag>
 ```
+
+### Example
+
+![picture of picked colonies](https://raw.githubusercontent.com/wab8/iGemMarburg2019/master/AI/example.jpg "Picked Colonies")
