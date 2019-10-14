@@ -30,8 +30,7 @@ amount = 6
 
 ### The Trained Colony Picker AI
 
-
-
+In the `AI` folder you can find the AI which is used to detect colonies in images.
 
 ## Hardware
 In this folder all STL files and further instructions for assembling the 3D printed hardware can be found. This includes hardware for the Colony Picking add-on, the Promega Plasmid Purification Protocols as well as additional labware.

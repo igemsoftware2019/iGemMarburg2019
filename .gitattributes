@@ -3,3 +3,6 @@ AI/models/research/object_detection/faster_rcnn_resnet101_coco_2018_01_28/model.
 AI/models/research/object_detection/faster_rcnn_resnet101_coco_2018_01_28/frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
 AI/models/research/object_detection/faster_rcnn_resnet101_coco_2018_01_28/saved_model/saved_model.pb filter=lfs diff=lfs merge=lfs -text
 AI/models/research/object_detection/test_ckpt/ssd_inception_v2.pb filter=lfs diff=lfs merge=lfs -text
+AI/trained/frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
+AI/trained/model.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+AI/trained/saved_model/saved_model.pb filter=lfs diff=lfs merge=lfs -text

@@ -40,6 +40,7 @@ docker run \
 ## Analyze images
 
 - Use the image from `process.dockerfile` (`docker build -f process.dockerfile -t <image tag> .`)
+- There is a pretrained `inference graph` inside the trained folder
 
 ```sh
 docker run \
