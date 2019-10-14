@@ -26,7 +26,7 @@ $ cd iGemMarburg2019/AI
 
 - Use the image from `training.dockerfile` (`docker build -f training.dockerfile -t <image tag> .`)
 - Optionally use the `NUM_STEPS` to choose how many steps to do (default: `100`)
-- Images must be labeled and have corresponding `.xml` files
+- Images must be labeled (the label needs to be `colony`) and have corresponding `.xml` files
 
 ```sh
 docker run \
@@ -40,7 +40,7 @@ docker run \
 ## Analyze images
 
 - Use the image from `process.dockerfile` (`docker build -f process.dockerfile -t <image tag> .`)
-- There is a pretrained `inference graph` inside the trained folder
+- There is a pretrained inference graph inside the `trained` folder
 
 ```sh
 docker run \
