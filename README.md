@@ -18,7 +18,7 @@ To run this script Python 3 is required, using the modules SeqIO from Bio, panda
 
 
 ### Promega Plasmid Purification Protocols
-The iGEM team Marburg 2019 automated Plasmid Purification for Opentrons OT-2 using the Wizard® MagneSil® Plasmid Purification System. This folder contains one Python script to run the Plasmid Purification with a p300 Single-Channel Electronic Pipette for up to six samples and another Python script for the use of a p300 8-Channel Electronic Pipette for up to 48(?) samples.
+The iGEM team Marburg 2019 automated Plasmid Purification for Opentrons OT-2 using the Wizard® MagneSil® Plasmid Purification System. This folder contains one Python script and one Jupyter Notebook to run the Plasmid Purification with a p300 Single-Channel Electronic Pipette for up to six samples and another Python script and Jupyter Notebook for the use of a p300 8-Channel Electronic Pipette for up to 48 samples.
 
 The user just has to change the variable "amount" to the number of samples for the Single Pipette or the number of used columns of a 96 Deep Well Plate for the 8-Channel Pipette.
 
