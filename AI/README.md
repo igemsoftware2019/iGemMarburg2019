@@ -46,6 +46,7 @@ docker run \
 docker run \
   --rm \
   -v <path of inference graph>:/tf/models/research/object_detection/inference_graph \
+  -v <path of test images folder>:/tf/models/research/object_detection/test_images \
   -v <output path>:/processed \
   <image tag>
 ```
