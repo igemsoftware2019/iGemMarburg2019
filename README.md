@@ -28,7 +28,7 @@ amount = 6
 
 
 
-### The Trained Colony Picker AI
+### Marburg Colony Identification Neural Network (MCoINN)
 
 In the `AI` folder you can find the AI which is used to detect colonies in images.
 
