@@ -6,8 +6,8 @@ Our software is provided open-source under the GNU General Public License versio
 
 ## Software
 
-### aNSo - artificial Nuclear integration Site option
-This folder contains a Python script to find artificial Nuclear integration Site options in a genome. Furthermore, it contains the input data used to find aNSo in the genome of *Synechococcus elongatus* UTEX 2973, such as the genome sequenced by [Yu et al., 2015](https://doi.org/10.1038/srep08132) as a FASTA file and a GenBank (gbk) file comprising all genes and TSS with their positions identified in a transcriptomics study by [Tan et al., 2018](https://doi.org/10.1186/s13068-018-1215-8), and the generated results for *S. elongatus*.
+### aNSo - artificial Neutral integration Site option
+This folder contains a Python script to find artificial Neutral integration Site options in a genome. Furthermore, it contains the input data used to find aNSo in the genome of *Synechococcus elongatus* UTEX 2973, such as the genome sequenced by [Yu et al., 2015](https://doi.org/10.1038/srep08132) as a FASTA file and a GenBank (gbk) file comprising all genes and TSS with their positions identified in a transcriptomics study by [Tan et al., 2018](https://doi.org/10.1186/s13068-018-1215-8), and the generated results for *S. elongatus*.
 
 To run this script Python 3 is required, using the modules SeqIO from Bio, pandas, re and os.
 
