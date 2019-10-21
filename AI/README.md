@@ -16,7 +16,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 To copy the code to your local machine use:
 
 ```sh
-$ git clone https://github.com/wab8/iGemMarburg2019.git
+$ git clone https://github.com/igemsoftware2019/iGemMarburg2019.git
 $ cd iGemMarburg2019/AI
 ```
 
