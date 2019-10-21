@@ -16,7 +16,7 @@
 
 
 
-# Script to find artificial Nuclear integration Site options (aNSo)
+# Script to find artificial Neutral integration Site options (aNSo)
 
 from Bio import SeqIO
 import pandas as pd
