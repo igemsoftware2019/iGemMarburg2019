@@ -1,0 +1,276 @@
+<Root>:
+    manager:manager
+    do_default_tab: False
+    tab_width: self.width/5
+    ScreenManager:
+        id:manager
+        Screen:
+            id:sc1
+            name: 'General Settings'
+            BoxLayout:
+                orientation: 'horizontal'
+                BoxLayout:
+                    orientation: 'vertical'
+                    Label:
+                        text: 'Opentron OT-2 Connection:'
+                    Label:
+                        text: 'IP Address'
+                    TextInput:
+                        text: '10.10.197.166'   
+                        multiline: False
+                    Label:
+                        text: 'Port'
+                        multiline: False
+                    TextInput:
+                        text: '2973'
+                        multiline: False
+                    Label:
+                        text: ''
+                    Label:
+                        text: 'Camera Module Connection:' 
+                    Label:
+                        text: 'IP Address'
+                    TextInput:
+                        text: '10.10.XXX.XX'
+                        multiline: False
+                    Label:
+                        text: 'Port'
+                    TextInput:
+                        text: '4972'
+                        multiline: False                    
+                Button:
+                    id: ov_load
+                    text: 'Load'
+                    on_release: root.show_load()
+                Button:
+                    id: ov_conn
+                    text: 'connect'
+                    on_release: root.connect_ot2()
+                Button:
+                    id: ov_disc
+                    text: 'disconnect'
+                    on_release: root.disconnect_ot2()
+        Screen:
+            id: sc2
+            name: 'Deck Overview'
+            GridLayout:
+                cols: 3
+                rows: 4
+                Button:
+                    id: bt01
+                    #text: 'bt01'
+                    background_normal: 'images/Slot10.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt02
+                    background_normal: 'images/Slot11.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt03
+                    background_normal: 'images/Trash.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt04
+                    background_normal: 'images/Slot7.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt05
+                    background_normal: 'images/Slot8.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt06
+                    background_normal: 'images/Slot9.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt07
+                    background_normal: 'images/96Well.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt08
+                    background_normal: 'images/96Well.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt09
+                    background_normal: 'images/Slot6.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt10
+                    background_normal: 'images/tiprack-10ul.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt11
+                    background_normal: 'images/Slot2.png'
+                    border: (0, 0, 0, 0)
+                Button:
+                    id: bt12
+                    background_normal: 'images/Slot3.png'
+                    border: (0, 0, 0, 0)
+        Screen:
+            id:sc3
+            name: 'Calibrate'
+            BoxLayout:
+                orientation:'horizontal'
+                Image:
+                    source: 'images/calibrate1.png'
+                    size: self.texture_size
+                    pos_hint:{'left':1, 'bottom':1}
+                BoxLayout:
+                    orientation:'vertical'
+                    Label:
+                        text: 'Set the step size of the arm'
+                        size_hint_y: 0.1
+                    BoxLayout:
+                        orientation:'horizontal'
+                        size_hint_y: 0.1
+                        ToggleButton:
+                            id: stp_adj1
+                            text: '0.1'
+                            on_state: root.set_step_size(self)
+                        ToggleButton:
+                            id: stp_adj2
+                            text: '1.0'
+                            on_state: root.set_step_size(self)
+                        ToggleButton:
+                            id: stp_adj3
+                            text: '10'
+                            on_state: root.set_step_size(self)
+                    Label:
+                        text: ''
+                        size_hint_y: 0.1
+                    GridLayout:
+                        rows: 5
+                        cols: 3
+                        Button:
+                            id: not1
+                            text: ''
+                            background_color: 0,0,0,0
+                        Button:
+                            id: up_arrow
+                            text: ''
+                            background_normal: 'images/arrow_up.png'
+                            border: (0, 0, 0, 0)
+                            on_release: root.calibrating_ot2(self)
+                        Button:
+                            id: not2
+                            text: ''
+                            background_color: 0,0,0,0
+                        Button:
+                            id: left_arrow
+                            text: ''
+                            background_normal: 'images/arrow_left.png'
+                            border: (0, 0, 0, 0)
+                            on_release: root.calibrating_ot2(self)
+                        Button:
+                            id: not3
+                            text: ''
+                            background_color: 0,0,0,0
+                        Button:
+                            id: right_arrow
+                            text: ''
+                            background_normal: 'images/arrow_right.png'
+                            border: (0, 0, 0, 0)
+                            on_release: root.calibrating_ot2(self)
+                        Button:
+                            id: not4
+                            text: ''
+                            background_color: 0,0,0,0
+                        Button:
+                            id: down_arrow
+                            text: ''
+                            background_normal: 'images/arrow_down.png'
+                            border: (0, 0, 0, 0)
+                            on_release: root.calibrating_ot2(self)
+                        Button:
+                            id: not5
+                            text: ''
+                            background_color: 0,0,0,0
+                        Button:
+                            id: not6
+                            text: ''
+                            background_color: 0,0,0,0
+                            size_hint_y: 0.2
+                        Button:
+                            id: not7
+                            text: ''
+                            background_color: 0,0,0,0
+                            size_hint_y: 0.2
+                        Button:
+                            id: not8
+                            text: ''
+                            background_color: 0,0,0,0
+                            size_hint_y: 0.2
+                        Button:
+                            id: z_up
+                            text: ''
+                            background_normal: 'images/arrow_up.png'
+                            border: (0, 0, 0, 0)
+                            on_release: root.calibrating_ot2(self)
+                        Button:
+                            id: not9
+                            text: ''
+                            background_color: 0,0,0,0
+                        Button:
+                            id: z_down
+                            text: ''
+                            background_normal: 'images/arrow_down.png'
+                            border: (0, 0, 0, 0)
+                            on_release: root.calibrating_ot2(self)
+
+                
+        Screen:
+            id:sc4
+            name: 'Run'
+            BoxLayout:
+                orientation:'horizontal'
+                Image:
+                    source: 'colony.jpg'
+                    size: self.texture_size
+                    pos_hint:{'left':1, 'bottom':1}
+                BoxLayout:
+                    orientation:'vertical'
+                    Label:
+                        text: 'Probability Adjustment'
+                        id: testlabel
+                    Slider:
+                        id: sld_prb
+                        min: 50
+                        max: 100
+                        value: 80
+                        step: 1
+
+    TabbedPanelHeader:
+        text:sc1.name
+        #background_color: 1,0,0,1
+        screen:sc1.name
+    TabbedPanelHeader:
+        text:sc2.name
+        #background_color: 1,1,0,1
+        screen:sc2.name
+    TabbedPanelHeader:
+        text:sc3.name
+        #background_color: 1,0,1,1
+        screen:sc3.name
+    TabbedPanelHeader:
+        text:sc4.name
+        #background_color: 1,0,1,1
+        screen:sc4.name
+    
+                    
+<LoadDialog>:
+    BoxLayout:
+        size: root.size
+        pos: root.pos
+        orientation: "vertical"
+        FileChooserListView:
+            id: filechooser
+
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Button:
+                text: "Cancel"
+                on_release: root.cancel()
+
+            Button:
+                text: "Load"
+                on_release: root.load(filechooser.path, filechooser.selection)
