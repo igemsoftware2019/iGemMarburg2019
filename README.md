@@ -14,7 +14,8 @@ This folder contains a Python script to find artificial Neutral integration Site
 To run this script Python 3 is required, using the modules SeqIO from Bio, pandas, re and os.
 
 #### Growth Curve Model
-
+Model utilizes scikit learn and uses polynomial regression to predict doubling times.
+The number of parameters given to the script to train is unlimited, there is no train test split or crossvalidation implemented, but it can be easily added.
 
 #### Terminator Model
 
