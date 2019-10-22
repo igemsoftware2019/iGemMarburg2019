@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     57 of 1733 (+) RNA                                      
+ Initial dG =    -13.00
+
+           10      
+-   .-UCCCUUUC|  A 
+ GCA          UAU C
+ CGU          AUA A
+A   \ --------^  A 
+              20   
+
+
+              30       
+      CAA-       AA  U 
+          AGAGGGC  GC \
+          UCUCCCG  CG A
+      UCUC       CC  G 
+        50        40   
+
+
+
+Structure    2
+
+Folding bases      1 to     57 of 1733 (+) RNA                                      
+ Initial dG =    -12.50
+
+        10        20           30       
+GCAUCCCUUUCUAUACAAAUA|  ---       AA  U 
+                     CAA   AGAGGGC  GC \
+                     GUU   UCUCCCG  CG A
+AC-------------------^  CUC       CC  G 
+                         50        40   
+
+

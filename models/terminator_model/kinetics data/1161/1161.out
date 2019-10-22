@@ -1,0 +1,42 @@
+
+Structure    1
+
+Folding bases      1 to     47 of 1161 (+) RNA                                      
+ Initial dG =    -13.10
+
+         10            20 
+CAAGAAAA-        ----|  U 
+         ACCGCUGC    CUU C
+         UGGCGACG    GAA C
+GGAGUUGAC        ACCU^  G 
+      40        30        
+
+
+
+Structure    2
+
+Folding bases      1 to     47 of 1161 (+) RNA                                      
+ Initial dG =    -12.70
+
+         10            20 
+CAA-| AAA        ----   U 
+    GA   ACCGCUGC    CUU C
+    UU   UGGCGACG    GAA C
+GGAG^ GAC        ACCU   G 
+      40        30        
+
+
+
+Structure    3
+
+Folding bases      1 to     47 of 1161 (+) RNA                                      
+ Initial dG =    -12.60
+
+           10            20 
+---|  GAAAA        ----   U 
+   CAA     ACCGCUGC    CUU C
+   GUU     UGGCGACG    GAA C
+GGA^  GAC--        ACCU   G 
+      40          30        
+
+

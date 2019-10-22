@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     54 of 1891 (+) RNA                                      
+ Initial dG =    -22.60
+
+          10        20        
+--|    UCCCCU             UCA 
+  UCAGA      GAGAGCGAUCGCU   \
+  GGUUU      UUCUCGCUAGCGA   A
+UC^    UUG---             CCC 
+   50           40        30  
+
+
+
+Structure    2
+
+Folding bases      1 to     54 of 1891 (+) RNA                                      
+ Initial dG =    -21.50
+
+         
+  |   AU 
+--UCAG  \
+  AGUC  C
+\ ^   CC 
+    10   
+
+
+                   20        
+  ------------           UCA 
+              GAGCGAUCGCU   \
+              CUCGCUAGCGA   A
+  UCGGUUUUUGUU           CCC 
+     50        40        30  
+
+

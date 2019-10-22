@@ -1,0 +1,52 @@
+<  1762 
+GAGGUUCCUGAAACGGCUACAUCACUGUGGCCGUUUUUUGUGGCU
+ G A G[G U U]C C U G A A A C[G G C^U A C A]U C A C[U G U G]G C C G U U U U U U G U G G C U        | Structure 25,  Free-energy : -1.7 kcal/mol        # &  
+ - - - -1- - - - - - - - - - -1' - -5- - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A A A C G G C[U A C A]U C A C[U G U G]G C C G U U U U U U G U G G C U        | Structure 24,  Free-energy : -2.0 kcal/mol        # &  
+ - - - - - - - - - - - - - - - - - -5- - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U U]C C U G A A A C[G G C U^A C A]U C A C[U G U]G G C C G U U U U U U G U G G C U        | Structure 23,  Free-energy : -2.5 kcal/mol        # &  
+ - - -1- - - - - - - - - - - -1' - - -5- - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A A[A C G G]C U A C A U C A[C U G U]G G C C G U U U U U U G U G G C U        | Structure 22,  Free-energy : -3.0 kcal/mol        # &  
+ - - - - - - - - - - - - -3- - - - - - - - - - - -3' - - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U G A A A C G G[C U A C]A U C[A C U^G U G G]C C G U U U U U U G U G G C U        | Structure 21,  Free-energy : -3.0 kcal/mol        # 2 &  
+ - - -2- - - - - - - - - - - - - -5- - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A A A C G G[C U A C A]U C A C[U G U G G]C C G U U U U U U G U G G C U        | Structure 20,  Free-energy : -3.5 kcal/mol        # &  
+ - - - - - - - - - - - - - - - - -5- - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U G A A A C G[G C U A C]A U C[A C U^G U G G C]C G U U U U U U G U G G C U        | Structure 19,  Free-energy : -6.8 kcal/mol        # 2 &  
+ - - -2- - - - - - - - - - - - -5- - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A A A C G[G C U A C A]U C A C[U G U G G C]C G U U U U U U G U G G C U        | Structure 18,  Free-energy : -7.3 kcal/mol        # &  
+ - - - - - - - - - - - - - - - -5- - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U[G A A A C G G C U^A C A]U C[A C U]G U[G G C C G U U U U]U[U G U]G G C U        | Structure 17,  Free-energy : -7.8 kcal/mol        # 7 2 &  
+ - - -2- - - - - - -5- - - - - - - - -7- - - - -2' - - - -5' - - - - - - - - -7' - - - - - H    Helix numbering
+ G A[G G U]U C C U G A A A C[G G C U A C]A U C[A C U^G U G G C C]G U U U U U U G U G G C U        | Structure 16,  Free-energy : -10.6 kcal/mol        # 2 &  
+ - - -2- - - - - - - - - - - -5- - - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A A A C[G G C U A C A]U C A C[U G U G G C C]G U U U U U U G U G G C U        | Structure 15,  Free-energy : -11.1 kcal/mol        # &  
+ - - - - - - - - - - - - - - -5- - - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U G A A A[C G G C U A C]A U C[A C U^G U G G C C G]U U U U U U G U G G C U        | Structure 14,  Free-energy : -11.5 kcal/mol        # 2 &  
+ - - -2- - - - - - - - - - -5- - - - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U[G A A A C G G C U^A C A]U C A C U G U[G G C C G U U U U]U[U G U]G G C U        | Structure 13,  Free-energy : -11.9 kcal/mol        # 7 &  
+ - - - - - - - - - -5- - - - - - - - -7- - - - - - - - - -5' - - - - - - - - -7' - - - - - H    Helix numbering
+ G A G G U U C C U G A A A[C G G C U A C A]U C A C[U G U G G C C G]U U U U U U G U G G C U        | Structure 12,  Free-energy : -12.0 kcal/mol        # &  
+ - - - - - - - - - - - - - -5- - - - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U G A A[A C G G C U A C]A U C[A C U^G U G G C C G U]U U U U U G U G G C U        | Structure 11,  Free-energy : -13.1 kcal/mol        # 2 &  
+ - - -2- - - - - - - - - -5- - - - - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A A[A C G G C U A C A]U C A C[U G U G G C C G U]U U U U U G U G G C U        | Structure 10,  Free-energy : -13.6 kcal/mol        # &  
+ - - - - - - - - - - - - -5- - - - - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U G A[A A C G G C U A C]A U C[A C U^G U G G C C G U U]U U U U G U G G C U        | Structure 9,  Free-energy : -14.0 kcal/mol        # 2 &  
+ - - -2- - - - - - - - -5- - - - - - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G A[A A C G G C U A C A]U C A C[U G U G G C C G U U]U U U U G U G G C U        | Structure 8,  Free-energy : -14.5 kcal/mol        # &  
+ - - - - - - - - - - - -5- - - - - - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U G[A A A C G G C U A C]A U C[A C U^G U G G C C G U U U]U U U G U G G C U        | Structure 7,  Free-energy : -14.8 kcal/mol        # 2 &  
+ - - -2- - - - - - - -5- - - - - - - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U G[A A A C G G C U A C A]U C A C[U G U G G C C G U U U]U U U G U G G C U        | Structure 6,  Free-energy : -15.4 kcal/mol        # &  
+ - - - - - - - - - - -5- - - - - - - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U[G A A A C G G C U A C]A U[C A C]U[G U G G C C G U U U U]U U[G U G]G C U        | Structure 5,  Free-energy : -16.0 kcal/mol        # 6 &  
+ - - - - - - - - - -5- - - - - - - - - - - - -6- - - -5' - - - - - - - - - - - -6' - - - - H    Helix numbering
+ G A G G U U C C U[G A A A C G G C U A C]A U C A C U[G U G G C C G U U U U]U U G U G G C U        | Structure 4,  Free-energy : -16.0 kcal/mol        # &  
+ - - - - - - - - - -5- - - - - - - - - - - - - - - - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A[G G U]U C C U[G A A A C G G C U A C]A U C[A C U^G U G G C C G U U U U]U U G U G G C U        | Structure 3,  Free-energy : -16.3 kcal/mol        # 2 &  
+ - - -2- - - - - - -5- - - - - - - - - - - - - -2' - -5' - - - - - - - - - - - - - - - - - H    Helix numbering
+ G A G G U U C C U[G A A A C G G C U A C]A[U C A C]U[G U G G C C G U U U U]U U[G U G G]C U        | Structure 2,  Free-energy : -16.4 kcal/mol        # 6 &  
+ - - - - - - - - - -5- - - - - - - - - - - -6- - - - -5' - - - - - - - - - - - -6' - - - - H    Helix numbering
+ G A G G U U C C U[G A A A C G G C U A C A]U C A C[U G U G G C C G U U U U]U U G U G G C U        | Structure 1,  Free-energy : -17.1 kcal/mol        # &  
+ - - - - - - - - - -5- - - - - - - - - - - - - - - -5' - - - - - - - - - - - - - - - - - - H    Helix numbering

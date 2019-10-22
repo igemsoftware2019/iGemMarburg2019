@@ -1,0 +1,50 @@
+
+Structure    1
+
+Folding bases      1 to     37 of 353 (+) RNA                                       
+ Initial dG =    -14.90
+
+         10        
+GGG-|   UCC      G 
+    GCAG   AGGGGC A
+    UGUU   UCCCCG U
+CCGG^   UUU      C 
+      30        20 
+
+
+
+Structure    2
+
+Folding bases      1 to     37 of 353 (+) RNA                                       
+ Initial dG =    -14.60
+
+        10           
+GG|  AGUCC---      G 
+  GGC        AGGGGC A
+  CCG        UCCCCG U
+--^  GUGUUUUU      C 
+        30        20 
+
+
+
+Structure    3
+
+Folding bases      1 to     37 of 353 (+) RNA                                       
+ Initial dG =    -14.30
+
+       
+  |  G 
+--GGG C
+  CCU A
+\ ^  G 
+ 10    
+
+
+                     
+  A-----------     G 
+              GGGGC A
+              CCCCG U
+  CCGGUGUUUUUU     C 
+        30        20 
+
+

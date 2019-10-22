@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     41 of 1105 (+) RNA                                      
+ Initial dG =    -18.90
+
+         10        20
+AAUCAA-|           A 
+       AAAGGGACUUGG A
+       UUUCCCUGAACC A
+UGUUUUC^           A 
+40        30         
+
+
+
+Structure    2
+
+Folding bases      1 to     41 of 1105 (+) RNA                                      
+ Initial dG =    -18.50
+
+           10        20
+AAU|    ---          A 
+   CAAAA   AGGGACUUGG A
+   GUUUU   UCCCUGAACC A
+U--^    CUU          A 
+  40        30         
+
+

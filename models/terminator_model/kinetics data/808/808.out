@@ -1,0 +1,42 @@
+
+Structure    1
+
+Folding bases      1 to     45 of 808 (+) RNA                                       
+ Initial dG =    -15.70
+
+        10                20  
+GUUUGAA   --------|        CG 
+       CCA        GAGCCGGGC  \
+       GGU        UUCGGCCUG  A
+C------   GAUGUUUU^        CG 
+          40        30        
+
+
+
+Structure    2
+
+Folding bases      1 to     45 of 808 (+) RNA                                       
+ Initial dG =    -15.00
+
+          10        20  
+GUUUGA| C--          CG 
+      AC   AGAGCCGGGC  \
+      UG   UUUCGGCCUG  A
+CGGUGA^ UUU          CG 
+    40        30        
+
+
+
+Structure    3
+
+Folding bases      1 to     45 of 808 (+) RNA                                       
+ Initial dG =    -15.00
+
+          10        20  
+GU--|  AACC          CG 
+    UUG    AGAGCCGGGC  \
+    GAU    UUUCGGCCUG  A
+CGGU^  GUUU          CG 
+    40        30        
+
+

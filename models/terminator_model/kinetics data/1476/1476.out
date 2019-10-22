@@ -1,0 +1,56 @@
+
+Structure    1
+
+Folding bases      1 to     46 of 1476 (+) RNA                                      
+ Initial dG =    -21.40
+
+        10        20    
+GCUAUCA|             AU 
+       AAAAGGGCUUCAUG  \
+       UUUUCCCGGAGUAC  G
+AGUUCG-^             GU 
+      40        30      
+
+
+
+Structure    2
+
+Folding bases      1 to     46 of 1476 (+) RNA                                      
+ Initial dG =    -21.00
+
+           10        20    
+GCUA|   ---             AU 
+    UCAA   AAAGGGCUUCAUG  \
+    AGUU   UUUCCCGGAGUAC  G
+----^   CGU             GU 
+         40        30      
+
+
+
+Structure    3
+
+Folding bases      1 to     46 of 1476 (+) RNA                                      
+ Initial dG =    -21.00
+
+            10        20    
+----| UAUCA              AU 
+    GC     AAAAGGGCUUCAUG  \
+    CG     UUUUCCCGGAGUAC  G
+AGUU^ -----              GU 
+          40        30      
+
+
+
+Structure    4
+
+Folding bases      1 to     46 of 1476 (+) RNA                                      
+ Initial dG =    -20.70
+
+        10        20    
+GC| UCA              AU 
+  UA   AAAAGGGCUUCAUG  \
+  GU   UUUUCCCGGAGUAC  G
+A-^ UCG              GU 
+      40        30      
+
+

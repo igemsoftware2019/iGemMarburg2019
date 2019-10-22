@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     51 of 2010 (+) RNA                                      
+ Initial dG =    -19.20
+
+        10        20        30      
+AUCGCACAGCCACACUAAAACAAA|        AA 
+                        GGAAGCCCC  \
+                        CCUUCGGGG  A
+CGAC--------------------^        UU 
+50                            40    
+
+
+
+Structure    2
+
+Folding bases      1 to     51 of 2010 (+) RNA                                      
+ Initial dG =    -18.30
+
+          10  
+AUC  .-AC| CC 
+   GC    AG  \
+   CG    UC  A
+---  \ --^ AC 
+   50         
+
+
+         20        30      
+       AAAACAAA         AA 
+               GGAAGCCCC  \
+               CCUUCGGGG  A
+       AC------         UU 
+                     40    
+
+

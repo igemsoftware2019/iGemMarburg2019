@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     45 of 2100 (+) RNA                                      
+ Initial dG =    -18.80
+
+        10        20        30  
+AACCAUCAGAUCAGAAAAA|          A 
+                   ACCCCUGAUGA A
+                   UGGGGACUACU C
+-------------------^          U 
+                       40       
+
+
+
+Structure    2
+
+Folding bases      1 to     45 of 2100 (+) RNA                                      
+ Initial dG =    -17.90
+
+          10
+.-AACCA| AG 
+       UC  A
+       AG  U
+\ -----^ AC 
+            
+
+
+     20        30  
+  AAAA           A 
+      ACCCCUGAUGA A
+      UGGGGACUACU C
+  ----           U 
+          40       
+
+

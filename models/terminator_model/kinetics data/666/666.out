@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     47 of 666 (+) RNA                                       
+ Initial dG =    -22.40
+
+           10        20  
+CUGACU---|             U 
+         GAAGCGCCUCUUGA C
+         UUUcgCGGGGAACU G
+CUUAAUCGU^             C 
+      40        30       
+
+
+
+Structure    2
+
+Folding bases      1 to     47 of 666 (+) RNA                                       
+ Initial dG =    -21.30
+
+           10        20  
+C---| ACU              U 
+    UG   GAAGCGCCUCUUGA C
+    AU   UUUcgCGGGGAACU G
+CUUA^ CGU              C 
+      40        30       
+
+

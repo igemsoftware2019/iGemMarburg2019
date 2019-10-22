@@ -1,0 +1,42 @@
+
+Structure    1
+
+Folding bases      1 to     43 of 727 (+) RNA                                       
+ Initial dG =    -20.30
+
+         10        20 
+GUG  UG -|       UG G 
+   CG  G AAAGCCGG  C A
+   GU  U UUUCGGCC  G U
+CAA  GU A^       GU C 
+  40        30        
+
+
+
+Structure    2
+
+Folding bases      1 to     43 of 727 (+) RNA                                       
+ Initial dG =    -20.10
+
+         10        20 
+| G  UG -        UG G 
+GU CG  G AAAGCCGG  C A
+CA GU  U UUUCGGCC  G U
+^ A  GU A        GU C 
+  40        30        
+
+
+
+Structure    3
+
+Folding bases      1 to     43 of 727 (+) RNA                                       
+ Initial dG =    -19.80
+
+          10        20 
+G--|   UGG        UG G 
+   UGCG   AAAGCCGG  C A
+   GUGU   UUUCGGCC  G U
+CAA^   UA-        GU C 
+  40         30        
+
+

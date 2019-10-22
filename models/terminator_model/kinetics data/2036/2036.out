@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     45 of 2036 (+) RNA                                      
+ Initial dG =    -22.60
+
+        10        20   
+CUGA| GU             C 
+    CA  AAAAGGGGGUCUG A
+    GU  UUUUUCCCCAGAC A
+GUG-^ GU             G 
+     40        30      
+
+
+
+Structure    2
+
+Folding bases      1 to     45 of 2036 (+) RNA                                      
+ Initial dG =    -21.70
+
+         10        20   
+CUG-   |UA            C 
+    ACAG  AAAGGGGGUCUG A
+    UGUU  UUUUCCCCAGAC A
+GUGG   ^--            G 
+    40          30      
+
+

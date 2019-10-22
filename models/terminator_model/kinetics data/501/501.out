@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     53 of 501 (+) RNA                                       
+ Initial dG =    -21.60
+
+          10        20      
+UGACACUU--|          G    U 
+          AGAACCGGGUU AGUC \
+          UUUUGGCCCGA UCAG A
+AGGUAUUUGC^          G    U 
+  50        40        30    
+
+
+
+Structure    2
+
+Folding bases      1 to     53 of 501 (+) RNA                                       
+ Initial dG =    -21.10
+
+             10        20      
+U-----|  ACUU           G    U 
+      GAC    AGAACCGGGUU AGUC \
+      UUG    UUUUGGCCCGA UCAG A
+AGGUAU^  C---           G    U 
+  50           40        30    
+
+

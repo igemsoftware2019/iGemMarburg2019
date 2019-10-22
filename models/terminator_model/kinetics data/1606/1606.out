@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     34 of 1606 (+) RNA                                      
+ Initial dG =    -12.00
+
+          10
+.-GGG|    G 
+     UUUUG C
+     AAAAC A
+\ ---^    U 
+            
+
+
+   20       
+  AA      G 
+    GGGGCC \
+    CCCCGG C
+  --      C 
+       30   
+
+
+
+Structure    2
+
+Folding bases      1 to     34 of 1606 (+) RNA                                      
+ Initial dG =    -11.50
+
+          10      
+-|    U-    AU AA 
+ GGGUU  UGGC  C  A
+ CCCGG  GCCG  G  A
+C^    CC    GG AA 
+   30        20   
+
+

@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     49 of 1440 (+) RNA                                      
+ Initial dG =    -17.80
+
+        10        20        30    
+GUCUCCUCAAACAUGAAAA|      C     C 
+                   AGCCCGU GUUCU G
+                   UCGGGCG CAAGA U
+-------------------^      A     C 
+                           40     
+
+
+
+Structure    2
+
+Folding bases      1 to     49 of 1440 (+) RNA                                      
+ Initial dG =    -17.40
+
+          10 
+.-GUCUCC|  A 
+        UCA A
+        AGU C
+\ ------^  A 
+             
+
+
+    20        30    
+  AAA       C     C 
+     AGCCCGU GUUCU G
+     UCGGGCG CAAGA U
+  ---       A     C 
+             40     
+
+

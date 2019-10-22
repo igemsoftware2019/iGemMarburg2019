@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     38 of 1304 (+) RNA                                      
+ Initial dG =    -19.60
+
+         10         
+ACAGAA-|          A 
+       AAAGCCCCUGC \
+       UUUCGGGGACG A
+AAUGCAG^          U 
+       30        20 
+
+
+
+Structure    2
+
+Folding bases      1 to     38 of 1304 (+) RNA                                      
+ Initial dG =    -19.20
+
+          10         
+--| AGAA           A 
+  AC    AAAGCCCCUGC \
+  UG    UUUCGGGGACG A
+AA^ CAG-           U 
+        30        20 
+
+

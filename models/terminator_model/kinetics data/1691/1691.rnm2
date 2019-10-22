@@ -1,0 +1,52 @@
+<  1691 
+CAGGUCUCUCAGGGGAGCUGGGCUUCCCUUUUUAAAUC
+ C A G G[U C U C]U[C A G^G G G A]G[C U G]G G C U U C C C U U U U U A A A U C        | Structure 25,  Free-energy : -4.0 kcal/mol        # 2 &  
+ - - - - -2- - - - -6- - -2' - - - -6' - - - - - - - - - - - - - - - - - - - H    Helix numbering
+ C A[G G U C U]C U C A[G G G]G A G C U[G G G C U^U C C]C U U U U U A A A U C        | Structure 24,  Free-energy : -4.1 kcal/mol        # 9 &  
+ - - -7- - - - - - - - -9- - - - - - - -7' - - - -9' - - - - - - - - - - - - H    Helix numbering
+ C[A G G U C^U C U]C A G G[G G A]G C U G[G G C U U]C C C U U U U U A A A U C        | Structure 23,  Free-energy : -4.3 kcal/mol        # &  
+ - -7- - - - -3- - - - - - -3' - - - - - -7' - - - - - - - - - - - - - - - - H    Helix numbering
+ C A G G U[C U C]U C[A G G G^G A G]C U G G G C U U[C C C U]U U U U A A A U C        | Structure 22,  Free-energy : -4.6 kcal/mol        # 3 &  
+ - - - - - -3- - - - -11 - - -3' - - - - - - - - - -11'- - - - - - - - - - - H    Helix numbering
+ C[A G G U C U^C U C]A[G G G^G A G]C U[G G G C U U]C[C C U]U U U U A A A U C        | Structure 21,  Free-energy : -4.7 kcal/mol        # 12 &  
+ - -7- - - - - -4- - - -12 - -4' - - - -7' - - - - - -12'- - - - - - - - - - H    Helix numbering
+ C[A G G U C]U C U[C A G]G G G A G[C U G^G G C U U]C C C U U U U U A A A U C        | Structure 20,  Free-energy : -4.7 kcal/mol        # &  
+ - -7- - - - - - - -6- - - - - - - -6' - -7' - - - - - - - - - - - - - - - - H    Helix numbering
+ C A G G U C U[C U C]A[G G G^G A G]C U G G G C U U[C C C]U U U U U A A A U C        | Structure 19,  Free-energy : -4.9 kcal/mol        # 4 &  
+ - - - - - - - -4- - - -11 - -4' - - - - - - - - - -11'- - - - - - - - - - - H    Helix numbering
+ C[A G G U C U]C U C[A G G G G]A G C U[G G G C U U]C[C C U U U]U U A A A U C        | Structure 18,  Free-energy : -5.3 kcal/mol        # 13 &  
+ - -7- - - - - - - - -13 - - - - - - - -7' - - - - - -13'- - - - - - - - - - H    Helix numbering
+ C[A G G U C^U C U^C A G]G[G G A]G[C U G^G G C U U]C C C U U U U U A A A U C        | Structure 17,  Free-energy : -5.3 kcal/mol        # 3 &  
+ - -7- - - - -3- - -6- - - -3' - - -6' - -7' - - - - - - - - - - - - - - - - H    Helix numbering
+ C A[G G U C]U C U[C A G^G G G A]G[C U G^G G C U^U C C C]U U U U U A A A U C        | Structure 16,  Free-energy : -5.8 kcal/mol        # 12 &  
+ - - -7- - - - - - -6- - -12 - - - -6' - -7' - - -12'- - - - - - - - - - - - H    Helix numbering
+ C A G G U C U C[U C A^G G G G A G]C[U G G]G[C U U C C C]U U U U U A A A U C        | Structure 15,  Free-energy : -5.9 kcal/mol        # 6 &  
+ - - - - - - - - -6- - -11 - - - - - -6' - - -11'- - - - - - - - - - - - - - H    Helix numbering
+ C[A G G U C U^C U C]A[G G G^G A G]C U[G G G C U U^C C C]U U U U U A A A U C        | Structure 14,  Free-energy : -6.2 kcal/mol        # 11 &  
+ - -7- - - - - -4- - - -11 - -4' - - - -7' - - - - -11'- - - - - - - - - - - H    Helix numbering
+ C[A G G U C U^C U C]A[G G G^G A G]C U[G G G C U U^C C C]U U U U U A A A U C        | Structure 13,  Free-energy : -6.2 kcal/mol        # 11 &  
+ - -7- - - - - -4- - - -11 - -4' - - - -7' - - - - -11'- - - - - - - - - - - H    Helix numbering
+ C A[G G U C U^C U C]A G G G[G A G]C U[G G G C U]U C C C U U U U U A A A U C        | Structure 12,  Free-energy : -6.2 kcal/mol        # &  
+ - - -7- - - - -4- - - - - - -4' - - - -7' - - - - - - - - - - - - - - - - - H    Helix numbering
+ C[A G G U C U^C U C]A G G G[G A G]C U[G G G C U U]C C C U U U U U A A A U C        | Structure 11,  Free-energy : -6.4 kcal/mol        # &  
+ - -7- - - - - -4- - - - - - -4' - - - -7' - - - - - - - - - - - - - - - - - H    Helix numbering
+ C A G G U C U C U C[A G G G G^A G C]U G G[G C U]U[C C C U U]U U U A A A U C        | Structure 10,  Free-energy : -6.6 kcal/mol        # &  
+ - - - - - - - - - - -12 - - - -11 - - - - -11'- - -12'- - - - - - - - - - - H    Helix numbering
+ C A[G G U C U]C U C A[G G G G]A G C U[G G G C U^U C C C]U U U U U A A A U C        | Structure 9,  Free-energy : -7.2 kcal/mol        # 7 &  
+ - - -7- - - - - - - - -11 - - - - - - -7' - - - -11'- - - - - - - - - - - - H    Helix numbering
+ C A G G U C U C U C[A G G G G A G]C U G G G C[U U C C C U U]U U U A A A U C        | Structure 8,  Free-energy : -7.4 kcal/mol        # &  
+ - - - - - - - - - - -12 - - - - - - - - - - - -12'- - - - - - - - - - - - - H    Helix numbering
+ C A[G G U]C U C U C[A G G G G A^G C U]G G G C[U U C C C U]U U U U A A A U C        | Structure 7,  Free-energy : -7.6 kcal/mol        # 5 &  
+ - - -5- - - - - - - -11 - - - - -5' - - - - - -11'- - - - - - - - - - - - - H    Helix numbering
+ C A[G G U]C U C U C[A G G G G A^G C U]G G G C U[U C C C U U]U U U A A A U C        | Structure 6,  Free-energy : -8.0 kcal/mol        # 5 &  
+ - - -5- - - - - - - -12 - - - - -5' - - - - - - -12'- - - - - - - - - - - - H    Helix numbering
+ C A[G G U C U]C U C[A G G G G]A G C U[G G G C U^U C C C U]U U U U A A A U C        | Structure 5,  Free-energy : -8.1 kcal/mol        # 7 &  
+ - - -7- - - - - - - -11 - - - - - - - -7' - - - -11'- - - - - - - - - - - - H    Helix numbering
+ C A G G U C U[C U C A G^G G G A]G[C U G G G]C U[U C C C]U U U U U A A A U C        | Structure 4,  Free-energy : -8.1 kcal/mol        # 6 &  
+ - - - - - - - -6- - - - -12 - - - -6' - - - - - -12'- - - - - - - - - - - - H    Helix numbering
+ C A[G G U C U]C U C[A G G G G A]G C U[G G G C U^U C C C U U]U U U A A A U C        | Structure 3,  Free-energy : -9.6 kcal/mol        # 7 &  
+ - - -7- - - - - - - -12 - - - - - - - -7' - - - -12'- - - - - - - - - - - - H    Helix numbering
+ C A G G U C U C U C A[G G G G A G C]U G G[G C U U C C C]U U U U U A A A U C        | Structure 2,  Free-energy : -10.4 kcal/mol        # &  
+ - - - - - - - - - - - -11 - - - - - - - - -11'- - - - - - - - - - - - - - - H    Helix numbering
+ C A G G U C U C U C[A G G G G A G C]U G G[G C U U C C C U]U U U U A A A U C        | Structure 1,  Free-energy : -11.3 kcal/mol        # &  
+ - - - - - - - - - - -11 - - - - - - - - - -11'- - - - - - - - - - - - - - - H    Helix numbering

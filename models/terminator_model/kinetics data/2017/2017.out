@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     46 of 2017 (+) RNA                                      
+ Initial dG =    -18.10
+
+        10        20         30  
+GUCUGCUGCCCACAAGAAA       GA-| G 
+                   CCCCUGU   CC C
+                   GGGGACG   GG A
+-------------------       ACC^ A 
+                        40       
+
+
+
+Structure    2
+
+Folding bases      1 to     46 of 2017 (+) RNA                                      
+ Initial dG =    -18.00
+
+           
+.-G|  GCUG 
+   UCU    C
+   AGA    C
+\ -^  ACAC 
+         10
+
+
+   20         30  
+  AA       GA-  G 
+    CCCCUGU   CC C
+    GGGGACG   GG A
+  --       ACC  A 
+         40       
+
+

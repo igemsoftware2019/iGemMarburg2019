@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     46 of 796 (+) RNA                                       
+ Initial dG =    -26.30
+
+          10        20   
+GAU--|      A          A 
+     GGCAAGA GCCUCCCCAA \
+     CUGUUUU CGGAGGGGUU A
+CUAGU^      -          U 
+     40         30       
+
+
+
+Structure    2
+
+Folding bases      1 to     46 of 796 (+) RNA                                       
+ Initial dG =    -25.30
+
+          10        20   
+|  --       A          A 
+GAU  GGCAAGA GCCUCCCCAA \
+CUA  CUGUUUU CGGAGGGGUU A
+^  GU       -          U 
+     40         30       
+
+

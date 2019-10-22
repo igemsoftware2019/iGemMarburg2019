@@ -1,0 +1,66 @@
+
+Structure    1
+
+Folding bases      1 to     47 of 1445 (+) RNA                                      
+ Initial dG =    -13.60
+
+       
+  |  A 
+--GCG U
+  CGC C
+\ ^  G 
+ 10    
+
+
+          20        30   
+  CAUAGCAAA         AAAU 
+           AGUGAGUAG    C
+           UCACUCAUC    A
+  ---------         CUUC 
+                 40      
+
+
+
+Structure    2
+
+Folding bases      1 to     47 of 1445 (+) RNA                                      
+ Initial dG =    -13.50
+
+          10 
+.-GCGAUC| GC 
+        GC  C
+        CG  A
+\ ------^ AU 
+             
+
+
+    20        30   
+  AAA         AAAU 
+     AGUGAGUAG    C
+     UCACUCAUC    A
+  ---         CUUC 
+           40      
+
+
+
+Structure    3
+
+Folding bases      1 to     47 of 1445 (+) RNA                                      
+ Initial dG =    -13.10
+
+       
+     A 
+--GCG U
+  CGC C
+\    G 
+ 10    
+
+
+          20        30   
+  CAUAGCAAA         A| U 
+           AGUGAGUAG AA C
+           UCACUCAUC UU A
+  ---------         C^ C 
+                 40      
+
+

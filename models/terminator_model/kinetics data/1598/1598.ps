@@ -1,0 +1,603 @@
+%!PS-Adobe-3.0 EPSF-2.0
+%%BoundingBox: 0 0 612 792
+
+%% Created by boxplot_ng, mfold 3.6
+%% Thu Sep 19 01:09:36 2019
+%%
+%%
+ 1.000000 1.000000 scale
+%%
+%% To change image size ....
+%% For full size image Use Bound ngBox:0 0 612 792
+%%                     and 1.0 1.0 scale
+%% For image .25 of full size, replace 612 with .25*612
+%%           replace 792 with .25*792 and replace
+%%           1.0 with .25: Other scales are similar.
+%%           Valid scales are .05 to 1.00
+%% ONLY scale and Bound ngBox lines above should be changed.
+%%
+
+%% Set colors
+%% 0 is for text, 1 is optimal dots
+%% 2 is almost optimal dots, 3-8 higher energy dots 
+%% 9 is Labels, 10 is background, 11 is grid lines
+%% OP is for lower triangle
+%% original colors from boxplot.col
+
+/color_0 {  0.000 0.000 0.150 setrgbcolor} def 
+/color_1 {  0.000 0.000 0.000 setrgbcolor} def 
+/color_2 {  0.950 0.000 0.000 setrgbcolor} def 
+/color_3 {  0.000 0.850 0.000 setrgbcolor} def 
+/color_4 {  0.750 0.750 0.000 setrgbcolor} def 
+/color_5 {  0.800 0.000 0.800 setrgbcolor} def 
+/color_6 {  0.200 0.600 0.800 setrgbcolor} def 
+/color_7 {  0.650 0.500 0.200 setrgbcolor} def 
+/color_8 {  0.900 0.700 0.700 setrgbcolor} def 
+/color_9 {  0.000 0.000 0.800 setrgbcolor} def 
+/color_10 {  0.990 0.990 0.990 setrgbcolor} def 
+/color_11 {  0.650 0.650 0.650 setrgbcolor} def 
+/color_12 {  0.100 0.100 0.300 setrgbcolor} def 
+/color_OP {  0.000 0.000 0.000 setrgbcolor} def 
+
+/len { 41 } def
+/ISOLatin1Encoding where {pop save true}{false} ifelse
+/reencodeISO {
+   dup length dict begin
+        {1 index /FID ne {def}{pop pop} ifelse} forall
+         /Encoding ISOLatin1Encoding def
+        currentdict
+    end
+} def
+/findISO {
+    dup /FontType known {
+        dup /FontType get 3 ne {
+              dup /CharStrings known {
+                 dup /CharStrings get /Thorn known {
+                     true
+                }{ false } ifelse
+            }{ false } ifelse
+       }{ false } ifelse
+     }{ false } ifelse
+} def
+
+/delta { /Symbol findfont findISO { reencodeISO /Symbol-ISO exch definefont
+                    sf scalefont setfont }
+                   { sf scalefont setfont } ifelse
+  (d) show } def
+
+%%   Define dots 
+
+
+%% Dot shape and Size definitions
+%% s1 is Optimal, s2 next to optimal through s7
+%% sbox is for labels
+
+%% Change si below to adjust size of dots
+%% 1.0 is maximum size without overlapping dots 
+%% sl is for labels 
+%% s1 = 2.0 doubles size of optimal dots, b1
+%% s2 = 2.0 doubles size of near optimal dots dots, b2
+%% Use 0.0796 to make dots 1/72 inch or 1 point
+%% Ignore Si,NSi,len 
+
+/s1 { 1.0000 } def
+/s2 { 1.0000 } def
+/s3 { 1.0000 } def
+/s4 { 1.0000 } def
+
+
+/S1 {.50 s1 mul } def
+/NS1 {-1.0 S1 mul } def
+/S2 {.50 s2 mul } def
+/NS2 {-1.0 S2 mul } def
+/S3 {.50 s3 mul } def
+/NS3 {-1.0 S3 mul } def
+/S4 {.50 s4 mul } def
+/NS4 {-1.0 S4 mul } def
+
+/b1 {
+  exch len exch sub 1 add 
+ moveto
+   S1 S1  rlineto
+   NS1  0 rlineto
+   NS1 NS1 rlineto
+   0   NS1  rlineto
+   S1    0 rlineto
+   S1 S1 rlineto
+   0    S1  rlineto
+   closepath
+   fill
+   stroke
+}def
+/b2 {
+  exch len exch sub 1 add 
+ moveto
+   S2 S2  rlineto
+   NS2  0 rlineto
+   NS2 NS2 rlineto
+   0   NS2  rlineto
+   S2    0 rlineto
+   S2 S2 rlineto
+   0    S2  rlineto
+   closepath
+   fill
+   stroke
+}def
+/b3 {
+  exch len exch sub 1 add 
+ moveto
+   S3 S3  rlineto
+   NS3  0 rlineto
+   NS3 NS3 rlineto
+   0   NS3  rlineto
+   S3    0 rlineto
+   S3 S3 rlineto
+   0    S3  rlineto
+   closepath
+   fill
+   stroke
+}def
+/b4 {
+  exch len exch sub 1 add 
+ moveto
+   S4 S4  rlineto
+   NS4  0 rlineto
+   NS4 NS4 rlineto
+   0   NS4  rlineto
+   S4    0 rlineto
+   S4 S4 rlineto
+   0    S4  rlineto
+   closepath
+   fill
+   stroke
+}def
+
+%% Set background color
+
+  color_10
+
+0 0 moveto
+611 0 rlineto
+0 791 rlineto
+-611 0 rlineto
+0 -791 rlineto
+closepath
+fill
+
+%%   Draw Text 
+
+  color_0
+
+/ISOLatin1Encoding where {pop save true}{false} ifelse
+/reencodeISO {
+   dup length dict begin
+        {1 index /FID ne {def}{pop pop} ifelse} forall
+         /Encoding ISOLatin1Encoding def
+        currentdict
+    end
+} def
+/findISO {
+    dup /FontType known {
+        dup /FontType get 3 ne {
+              dup /CharStrings known {
+                 dup /CharStrings get /Thorn known {
+                     true
+                }{ false } ifelse
+            }{ false } ifelse
+       }{ false } ifelse
+     }{ false } ifelse
+} def
+
+/delta { /Symbol findfont findISO { reencodeISO /Symbol-ISO exch definefont
+                    sf scalefont setfont }
+                   { sf scalefont setfont } ifelse
+  (d) show } def
+/sf 7.5 def
+/Helvetica findfont findISO { reencodeISO /Symbol-ISO exch definefont 
+               sf scalefont setfont }
+               { sf scalefont setfont } ifelse
+15 776.000000 moveto (Output of boxplot_ng (©)) show
+15 765.000000 moveto (mfold 3.6) show
+473.250000 776.000000 moveto (Created Thu Sep 19 01:09:36 2019) show
+
+/sf 20 def
+/Helvetica findfont findISO { reencodeISO /Symbol-ISO exch definefont
+                              sf scalefont setfont }
+        { sf scalefont setfont } ifelse
+ 174.750000 720 moveto
+ (Fold of 1598 \(+\) RNA  at 37° C) show
+ /Helvetica findfont
+ 10 scalefont
+ setfont
+  color_OP
+
+ 30 90 moveto
+ (Lower Triangle: Optimal Energy) show
+  color_0
+
+/sf 10 def
+ 130 690 moveto
+delta
+ /Helvetica findfont
+ 10 scalefont
+ setfont
+ (G in Plot File =     1.0 kcal/mol) show
+  color_1
+
+ 340 90  moveto 
+ (  Optimal Energy   =    -11.7  kcal/mol ) show
+  color_2
+
+ 340 80  moveto
+ (   -11.7 < Energy <=   -11.4  kcal/mol ) show
+  color_3
+
+ 340 70  moveto
+ (   -11.4 < Energy <=   -11.0  kcal/mol ) show
+  color_4
+
+ 340 60  moveto
+ (   -11.0 < Energy <=   -10.7  kcal/mol ) show
+  color_0
+
+ 25 100 translate
+
+%%   Draw Tic Marks 
+
+ 0.05 setlinewidth
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 42 541 moveto
+ 0 8 rlineto
+ 42 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (41) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 2 541 moveto
+ 0 8 rlineto
+ 2 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (1) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 7 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 7 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 7 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (6) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 12 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 12 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 12 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (11) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 17 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 17 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 17 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (16) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 22 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 22 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 22 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (21) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 27 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 27 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 27 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (26) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 32 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 32 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 32 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (31) show
+ 12.558140 1. scale
+
+ 0.031852 setlinewidth
+ 37 541 moveto
+ 0 8 rlineto
+ stroke
+  color_11
+
+ 37 539 moveto
+ 0 -527.441872 rlineto
+ stroke
+  color_0
+
+ 37 550 moveto
+ 0.079630 1. scale
+ -6 0 rmoveto
+ (36) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 42 moveto
+ 8 0 rlineto
+ 550.5 42 moveto
+ 1.0 0.079630 scale
+ (1) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 2 moveto
+ 8 0 rlineto
+ 550.5 2 moveto
+ 1.0 0.079630 scale
+ (41) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 37 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 37 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 37 moveto
+ 1.0 0.079630 scale
+ (6) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 32 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 32 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 32 moveto
+ 1.0 0.079630 scale
+ (11) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 27 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 27 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 27 moveto
+ 1.0 0.079630 scale
+ (16) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 22 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 22 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 22 moveto
+ 1.0 0.079630 scale
+ (21) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 17 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 17 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 17 moveto
+ 1.0 0.079630 scale
+ (26) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 12 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 12 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 12 moveto
+ 1.0 0.079630 scale
+ (31) show
+ 1.0 12.558140 scale
+
+ 0.031852 setlinewidth
+ 541.5 7 moveto
+ 8 0 rlineto
+ stroke
+  color_11
+
+ 539.5 7 moveto
+ -527.441872 0 rlineto
+ stroke
+  color_0
+
+ 550.5 7 moveto
+ 1.0 0.079630 scale
+ (36) show
+
+ .7 setlinewidth
+  color_0
+
+ 12.558140 12.558140 scale
+
+ 0.055741 setlinewidth
+
+%%   Draw diagonal line 
+
+ 0.920370  43.079628 moveto
+ 43.079628 0.920370  lineto stroke
+ 43.079628 0.920370  moveto 
+ 0.920370 0.920370 lineto
+ 0.920370 43.079628 lineto
+ 43.079628 43.079628 lineto
+ 43.079628 0.920370 lineto closepath stroke
+
+%%   Draw DOTS 
+
+  color_4
+
+4 17 b4
+5 16 b4
+6 15 b4
+7 14 b4
+  color_3
+
+  color_2
+
+  color_1
+
+19 42 b1
+  color_OP
+
+40 21 b1
+  color_1
+
+20 41 b1
+  color_OP
+
+39 22 b1
+  color_1
+
+21 40 b1
+  color_OP
+
+38 23 b1
+  color_1
+
+22 39 b1
+  color_OP
+
+37 24 b1
+  color_1
+
+23 38 b1
+  color_OP
+
+36 25 b1
+  color_1
+
+25 36 b1
+  color_OP
+
+34 27 b1
+  color_1
+
+26 35 b1
+  color_OP
+
+33 28 b1
+  color_1
+
+27 34 b1
+  color_OP
+
+32 29 b1
+  color_1
+
+  color_0
+
+ 0.079630 0.079630 scale
+ -25 -100 translate
+ 27 78 moveto
+ /Helvetica findfont
+ 10 scalefont
+ setfont
+ ( Upper Triangle Base Pairs Plotted: 12 ) show
+ showpage
+%%EOF

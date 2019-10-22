@@ -1,0 +1,44 @@
+
+Structure    1
+
+Folding bases      1 to     46 of 2054 (+) RNA                                      
+ Initial dG =    -18.10
+
+          
+.-C|    C 
+   AGCAG U
+   UUGUC C
+\ -^    G 
+       10 
+
+
+     20         30  
+  AAAA      C  -  C 
+      GAGGUG UG CC U
+      CUCCAC AC GG A
+  ----      A  A  G 
+           40       
+
+
+
+Structure    2
+
+Folding bases      1 to     46 of 2054 (+) RNA                                      
+ Initial dG =    -17.60
+
+         
+  |   AG 
+--CAGC  \
+  GUCG  C
+\ ^   CU 
+    10   
+
+
+       20         30  
+  UUAAAA      C  -  C 
+        GAGGUG UG CC U
+        CUCCAC AC GG A
+  ------      A  A  G 
+             40       
+
+

@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     42 of 1962 (+) RNA                                      
+ Initial dG =     -9.50
+
+        10        20        30 
+UCUACAAGCCACUACAAAAA|     ACGC 
+                    AGCCGG    \
+                    UCGGCC    U
+C-------------------^     CGGC 
+                    40         
+
+
+
+Structure    2
+
+Folding bases      1 to     42 of 1962 (+) RNA                                      
+ Initial dG =     -9.30
+
+        10        20        30  
+UCUACAAGCCACUACAAAAA      AC| U 
+                    AGCCGG  GC \
+                    UCGGCC  CG C
+C-------------------      --^ G 
+                    40          
+
+

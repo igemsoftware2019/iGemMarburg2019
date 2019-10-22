@@ -1,0 +1,41 @@
+
+Structure    1
+
+1304 (+) RNA                                      
+ Initial dG =    -19.60
+
+External loop:	ddG =  -0.50  13 ss bases &  1 closing helices.
+Stack:		ddG =  -0.90 External closing pair is A(     7)-U(    31)
+Stack:		ddG =  -0.90 External closing pair is A(     8)-U(    30)
+Stack:		ddG =  -2.10 External closing pair is A(     9)-U(    29)
+Stack:		ddG =  -3.40 External closing pair is G(    10)-C(    28)
+Stack:		ddG =  -3.30 External closing pair is C(    11)-G(    27)
+Stack:		ddG =  -3.30 External closing pair is C(    12)-G(    26)
+Stack:		ddG =  -3.30 External closing pair is C(    13)-G(    25)
+Stack:		ddG =  -2.10 External closing pair is C(    14)-G(    24)
+Stack:		ddG =  -2.10 External closing pair is U(    15)-A(    23)
+Stack:		ddG =  -3.40 External closing pair is G(    16)-C(    22)
+Helix:		ddG = -24.80  11 base pairs.
+Hairpin loop:	ddG =   5.70          Closing pair is C(    17)-G(    21)
+
+Structure    2
+
+1304 (+) RNA                                      
+ Initial dG =    -19.20
+
+External loop:	ddG =  -0.20   2 ss bases &  1 closing helices.
+Stack:		ddG =  -2.20 External closing pair is A(     1)-U(    36)
+Helix:		ddG =  -2.20   2 base pairs.
+Interior loop:	ddG =   2.30 External closing pair is C(     2)-G(    35)
+Stack:		ddG =  -0.90 External closing pair is A(     7)-U(    31)
+Stack:		ddG =  -0.90 External closing pair is A(     8)-U(    30)
+Stack:		ddG =  -2.10 External closing pair is A(     9)-U(    29)
+Stack:		ddG =  -3.40 External closing pair is G(    10)-C(    28)
+Stack:		ddG =  -3.30 External closing pair is C(    11)-G(    27)
+Stack:		ddG =  -3.30 External closing pair is C(    12)-G(    26)
+Stack:		ddG =  -3.30 External closing pair is C(    13)-G(    25)
+Stack:		ddG =  -2.10 External closing pair is C(    14)-G(    24)
+Stack:		ddG =  -2.10 External closing pair is U(    15)-A(    23)
+Stack:		ddG =  -3.40 External closing pair is G(    16)-C(    22)
+Helix:		ddG = -24.80  11 base pairs.
+Hairpin loop:	ddG =   5.70          Closing pair is C(    17)-G(    21)

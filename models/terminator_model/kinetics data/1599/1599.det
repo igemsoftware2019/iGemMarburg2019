@@ -1,0 +1,61 @@
+
+Structure    1
+
+1599 (+) RNA                                      
+ Initial dG =    -29.80
+
+External loop:	ddG =  -2.00  22 ss bases &  1 closing helices.
+Stack:		ddG =  -2.40 External closing pair is G(    22)-C(    67)
+Stack:		ddG =  -1.10 External closing pair is A(    23)-U(    66)
+Helix:		ddG =  -3.50   3 base pairs.
+Interior loop:	ddG =   5.40 External closing pair is U(    24)-A(    65)
+Stack:		ddG =  -2.10 External closing pair is A(    30)-U(    63)
+Stack:		ddG =  -2.40 External closing pair is G(    31)-C(    62)
+Stack:		ddG =  -2.10 External closing pair is A(    32)-U(    61)
+Stack:		ddG =  -3.30 External closing pair is G(    33)-C(    60)
+Stack:		ddG =  -3.30 External closing pair is G(    34)-C(    59)
+Stack:		ddG =  -2.40 External closing pair is G(    35)-C(    58)
+Stack:		ddG =  -2.20 External closing pair is A(    36)-U(    57)
+Stack:		ddG =  -2.40 External closing pair is C(    37)-G(    56)
+Stack:		ddG =  -2.40 External closing pair is G(    38)-C(    55)
+Stack:		ddG =  -2.10 External closing pair is A(    39)-U(    54)
+Stack:		ddG =  -2.20 External closing pair is G(    40)-C(    53)
+Stack:		ddG =  -0.90 External closing pair is U(    41)-A(    52)
+Stack:		ddG =  -2.10 External closing pair is U(    42)-A(    51)
+Stack:		ddG =  -3.40 External closing pair is G(    43)-C(    50)
+Helix:		ddG = -33.30  15 base pairs.
+Hairpin loop:	ddG =   3.60          Closing pair is C(    44)-G(    49)
+
+Structure    2
+
+1599 (+) RNA                                      
+ Initial dG =    -29.20
+
+External loop:	ddG =  -1.60   9 ss bases &  2 closing helices.
+Stack:		ddG =  -2.10 External closing pair is A(    30)-U(    63)
+Stack:		ddG =  -2.40 External closing pair is G(    31)-C(    62)
+Stack:		ddG =  -2.10 External closing pair is A(    32)-U(    61)
+Stack:		ddG =  -3.30 External closing pair is G(    33)-C(    60)
+Stack:		ddG =  -3.30 External closing pair is G(    34)-C(    59)
+Stack:		ddG =  -2.40 External closing pair is G(    35)-C(    58)
+Stack:		ddG =  -2.20 External closing pair is A(    36)-U(    57)
+Stack:		ddG =  -2.40 External closing pair is C(    37)-G(    56)
+Stack:		ddG =  -2.40 External closing pair is G(    38)-C(    55)
+Stack:		ddG =  -2.10 External closing pair is A(    39)-U(    54)
+Stack:		ddG =  -2.20 External closing pair is G(    40)-C(    53)
+Stack:		ddG =  -0.90 External closing pair is U(    41)-A(    52)
+Stack:		ddG =  -2.10 External closing pair is U(    42)-A(    51)
+Stack:		ddG =  -3.40 External closing pair is G(    43)-C(    50)
+Helix:		ddG = -33.30  15 base pairs.
+Hairpin loop:	ddG =   3.60          Closing pair is C(    44)-G(    49)
+Stack:		ddG =  -2.40 External closing pair is G(     1)-C(    25)
+Helix:		ddG =  -2.40   2 base pairs.
+Bulge loop:	ddG =   2.70 External closing pair is A(     2)-U(    24)
+Stack:		ddG =  -2.40 External closing pair is U(     4)-A(    23)
+Helix:		ddG =  -2.40   2 base pairs.
+Bulge loop:	ddG =   1.70 External closing pair is C(     5)-G(    22)
+Stack:		ddG =  -1.10 External closing pair is A(     6)-U(    20)
+Stack:		ddG =  -0.90 External closing pair is U(     7)-A(    19)
+Stack:		ddG =  -0.90 External closing pair is U(     8)-A(    18)
+Helix:		ddG =  -2.90   4 base pairs.
+Hairpin loop:	ddG =   5.40          Closing pair is U(     9)-A(    17)

@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     64 of 2024 (+) RNA                                      
+ Initial dG =    -17.70
+
+        
+  |  CG 
+--GGA  \
+  CCU  A
+\ ^  AG 
+  10    
+
+
+         20        30        40  
+  CACAAAAAAU          CCAC   GAU 
+            GGACCUCAAC    UGC   \
+            UCUGGAGUUG    ACG   C
+  UAGCU-----          A---   GCA 
+     60             50           
+
+
+
+Structure    2
+
+Folding bases      1 to     64 of 2024 (+) RNA                                      
+ Initial dG =    -16.90
+
+        10        20        30        40  
+GGA|  GAUCCCACAAAAAAU          CCAC   GAU 
+   CGA               GGACCUCAAC    UGC   \
+   GCU               UCUGGAGUUG    ACG   C
+UA-^  ---------------          A---   GCA 
+    60                       50           
+
+

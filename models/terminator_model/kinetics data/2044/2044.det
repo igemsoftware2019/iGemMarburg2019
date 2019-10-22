@@ -1,0 +1,21 @@
+
+Structure    1
+
+2044 (+) RNA                                      
+ Initial dG =    -13.90
+
+External loop:	ddG =   0.20  19 ss bases &  1 closing helices.
+Stack:		ddG =  -0.90 External closing pair is A(    20)-U(    54)
+Stack:		ddG =  -2.20 External closing pair is A(    21)-U(    53)
+Stack:		ddG =  -2.10 External closing pair is C(    22)-G(    52)
+Stack:		ddG =  -2.10 External closing pair is U(    23)-A(    51)
+Stack:		ddG =  -3.40 External closing pair is G(    24)-C(    50)
+Stack:		ddG =  -2.10 External closing pair is C(    25)-G(    49)
+Stack:		ddG =  -2.10 External closing pair is U(    26)-A(    48)
+Stack:		ddG =  -2.40 External closing pair is G(    27)-C(    47)
+Helix:		ddG = -17.30   9 base pairs.
+Interior loop:	ddG =   3.30 External closing pair is A(    28)-U(    46)
+Stack:		ddG =  -2.10 External closing pair is C(    30)-G(    43)
+Stack:		ddG =  -2.10 External closing pair is U(    31)-A(    42)
+Helix:		ddG =  -4.20   3 base pairs.
+Hairpin loop:	ddG =   4.10          Closing pair is G(    32)-C(    41)

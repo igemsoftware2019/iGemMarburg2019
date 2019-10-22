@@ -1,0 +1,36 @@
+
+Structure    1
+
+Folding bases      1 to     49 of 1613 (+) RNA                                      
+ Initial dG =    -13.40
+
+        10          20      
+AACUCU    .-AUAGAAGAA|    A 
+      AGGC           AGGCG C
+      UCCG           UCCGC C
+------    \ ---------^    C 
+                       30   
+
+
+                  
+               AA 
+            GGU  G
+            CCG  C
+               AA 
+                40
+
+
+
+Structure    2
+
+Folding bases      1 to     49 of 1613 (+) RNA                                      
+ Initial dG =    -13.00
+
+        10        20      
+AACUCUA|  AUAGAAGAA     A 
+       GGC         AGGCG C
+       CCG         UCCGC C
+UCCG---^  AACGAAUGG     C 
+           40        30   
+
+

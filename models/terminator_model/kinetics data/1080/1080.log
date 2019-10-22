@@ -1,0 +1,241 @@
+ mfold version 3.5 by Michael Zuker
+ Enter run type
+     0  Regular run (default)
+     1  Save run
+     2  Continuation run
+  
+ Enter save file name (default fold.sav)
+
+ Input sequence file name  (q to quit)  
+
+ Available sequence(s) in 1080-local.seq                          
+
+   1) 1080 (+) RNA                                      
+
+ Choose sequence by number [default is  1],                     or enter  F  for a new file: 
+
+   Length of retrieved sequence =     46
+
+
+
+ 1080 (+) RNA                                               46 nucleotides
+
+ Enter start of fragment (default 1)
+ Enter end of fragment (default     46)
+ Enter asymmetric interior loop of size 3 energy file name
+ (default asint1x2.dat)
+ Enter asymmetric interior loop of size 5 energy file name
+ (default asint2x3.dat)
+ Enter dangle energy file name (default dangle.dat)
+ Enter loop energy file name (default loop.dat)
+ Enter misc. loop energy file name (default miscloop.dat)
+ Enter symmetric interior loop of size 2 energy file
+  name (default sint2.dat)
+ Enter symmetric interior loop of size 4 energy file
+  name (default sint4.dat)
+ Enter symmetric interior loop of size 6 energy file
+  name (default sint6.dat)
+ Enter stack energy file name (default stack.dat)
+ Enter tetraloop energy file name (default tloop.dat)
+ Enter triloop energy file name (default triloop.dat)
+ Enter tstackh energy file name (default tstackh.dat)
+ Enter tstacki energy file name (default tstacki.dat)
+
+          1  Energy Parameter           7  Double Prohibit 
+          2  Single Force               8  Prohibit Range  
+          3  Double Force               9  Maximum distance
+          4  Closed Excision           10  Begin folding   
+          5  Open Excision             11  Show current    
+          6  Single Prohibit           12  Clear current   
+
+ Enter Choice   
+
+            Energy Parameters (10ths or 100ths kcal/mol)
+
+          1 Extra stack energy                        [    0]
+          2 Extra bulge energy                        [    0]
+          3 Extra loop energy (interior)              [    0]
+          4 Extra loop energy (hairpin)               [    0]
+          5 Extra loop energy (multi)                 [  340]
+          6 Multi loop energy/single-stranded base    [    0]
+          7 Maximum size of interior loop             [   30]
+          8 Maximum lopsidedness of an interior loop  [   30]
+          9 Multi loop energy/closing base pair       [   40]
+         10 Helix penalty per non-GC closing pair     [   50]
+         11 GGG hairpin bonus                         [ -220]
+         12 poly-C loop penalty: slope                [   30]
+         13 poly-C loop penalty: intercept            [  160]
+         14 poly-C loop penalty: hairpin of size 3    [  140]
+         15 Intermolecular initiation free energy     [  410]
+         16 GAIL Rule - 1 for version 3 rules only    [    1]
+Enter Parameter to be changed (<return> for main menu)
+Enter new value
+
+            Energy Parameters (10ths or 100ths kcal/mol)
+
+          1 Extra stack energy                        [    0]
+          2 Extra bulge energy                        [    0]
+          3 Extra loop energy (interior)              [    0]
+          4 Extra loop energy (hairpin)               [    0]
+          5 Extra loop energy (multi)                 [  340]
+          6 Multi loop energy/single-stranded base    [    0]
+          7 Maximum size of interior loop             [   30]
+          8 Maximum lopsidedness of an interior loop  [   30]
+          9 Multi loop energy/closing base pair       [   40]
+         10 Helix penalty per non-GC closing pair     [   50]
+         11 GGG hairpin bonus                         [ -220]
+         12 poly-C loop penalty: slope                [   30]
+         13 poly-C loop penalty: intercept            [  160]
+         14 poly-C loop penalty: hairpin of size 3    [  140]
+         15 Intermolecular initiation free energy     [  410]
+         16 GAIL Rule - 1 for version 3 rules only    [    1]
+Enter Parameter to be changed (<return> for main menu)
+Enter new value
+
+            Energy Parameters (10ths or 100ths kcal/mol)
+
+          1 Extra stack energy                        [    0]
+          2 Extra bulge energy                        [    0]
+          3 Extra loop energy (interior)              [    0]
+          4 Extra loop energy (hairpin)               [    0]
+          5 Extra loop energy (multi)                 [  340]
+          6 Multi loop energy/single-stranded base    [    0]
+          7 Maximum size of interior loop             [   30]
+          8 Maximum lopsidedness of an interior loop  [   30]
+          9 Multi loop energy/closing base pair       [   40]
+         10 Helix penalty per non-GC closing pair     [   50]
+         11 GGG hairpin bonus                         [ -220]
+         12 poly-C loop penalty: slope                [   30]
+         13 poly-C loop penalty: intercept            [  160]
+         14 poly-C loop penalty: hairpin of size 3    [  140]
+         15 Intermolecular initiation free energy     [  410]
+         16 GAIL Rule - 1 for version 3 rules only    [    1]
+Enter Parameter to be changed (<return> for main menu)
+
+          1  Energy Parameter           7  Double Prohibit 
+          2  Single Force               8  Prohibit Range  
+          3  Double Force               9  Maximum distance
+          4  Closed Excision           10  Begin folding   
+          5  Open Excision             11  Show current    
+          6  Single Prohibit           12  Clear current   
+
+ Enter Choice   
+sh: 1: cannot create /dev/tty: No such device or address
+sh: 1: cannot create /dev/tty: No such device or address
+sh: 1: cannot create /dev/tty: No such device or address
+sh: 1: cannot create /dev/tty: No such device or address
+sh: 1: cannot create /dev/tty: No such device or address
+sh: 1: cannot create /dev/tty: No such device or address
+ Enter save file name (default fold.sav)
+ Enter helix file name 
+ >
+vmin =   -25.4 Enter energy increment >
+Enter number of levels >
+ Enter save file name (default fold.sav)
+ Enter p-num file name 
+ >
+vmin =   -25.4. Enter energy increment >
+    ====>  Output file is 1080.h-num
+
+ mfold version 3.5 by Michael Zuker
+ Enter run type
+     0  Regular run (default)
+     1  Save run
+     2  Continuation run
+  
+ Enter run mode
+     0  Sub-optimal plot (default)
+     1  n-best
+     2  Multiple Molecules
+  
+
+ Enter percentage for sort (default 0)  
+
+ Enter number of tracebacks (default 1)  
+
+ Enter window size (default 0)  
+  
+ Enter save file name (default fold.sav)
+ Enter file name for continuation dump(return for terminal)
+  No choices currently defined
+   Energy Parameters
+
+
+             Energy Parameters (10ths kcal/mol)
+
+           1 Extra stack energy                        [    0]
+           2 Extra bulge energy                        [    0]
+           3 Extra loop energy (interior)              [    0]
+           4 Extra loop energy (hairpin)               [    0]
+           5 Extra loop energy (multi)                 [  340]
+           6 Multi loop energy/single-stranded base    [    0]
+           7 Maximum size of interior loop             [   30]
+           8 Maximum lopsidedness of an interior loop  [   30]
+           9 Multi loop energy/closing base pair       [   40]
+          10 Helix penalty per non-GC closing pair     [   50]
+          11 GGG hairpin bonus                         [ -220]
+          12 poly-C loop penalty: slope                [   30]
+          13 poly-C loop penalty: intercept            [  160]
+          14 poly-C loop penalty: hairpin of size 3    [  140]
+          15 Intermolecular initiation free energy     [  410]
+          16 GAIL Rule - 1 for version 3 rules only    [    1]
+
+
+ Listing of energy files? (y/N)
+Do you want printer output? (Y,n) 
+Output to terminal? (Y,n) 
+Enter output file name (default 1080_____RNA.out__________________________________          )
+Do you want ct file? (y,N) 
+Enter ct file name (default 1080_____RNA.ct __________________________________          )
+Do you want a detailed ddG table? (y,N) 
+Enter detailed ddG table file name (default 1080_____RNA.det__________________________________          )
+  
+sh: 1: cannot create /dev/tty: No such device or address
+sh: 1: cannot create /dev/tty: No such device or address
+ End reached at traceback     2
+sh: 1: cannot create /dev/tty: No such device or address
+boxplot_ng, mfold 3.6
+Trying to open 1080.plot
+The number of helices is 6
+Helix total is 7
+There are 6 helices in the plot file.
+Postscript file name is 1080.ps
+Normal exit from boxplot_ng.
+CurrentFile= 1080-temp_1.ct
+CurrentFile= 1080-temp_2.ct
+Rotation angle: 0.00 degrees
+Input File: 1080_1.ct
+Sequence length: 46
+Using 356.0 degrees of the circle 
+Output:  1080_1.ps
+ss file output is 1080_1.ss
+Normal exit from sir_graph.
+Rotation angle: 0.00 degrees
+Input File: 1080_1.ct
+Sequence length: 46
+Using 356.0 degrees of the circle 
+Output:  1080_1.ps
+Normal exit from sir_graph.
+Rotation angle: 0.00 degrees
+Input File: 1080_1.ct
+Sequence length: 46
+Using 356.0 degrees of the circle 
+Normal exit from sir_graph.
+Rotation angle: 0.00 degrees
+Input File: 1080_2.ct
+Sequence length: 46
+Using 356.0 degrees of the circle 
+Output:  1080_2.ps
+ss file output is 1080_2.ss
+Normal exit from sir_graph.
+Rotation angle: 0.00 degrees
+Input File: 1080_2.ct
+Sequence length: 46
+Using 356.0 degrees of the circle 
+Output:  1080_2.ps
+Normal exit from sir_graph.
+Rotation angle: 0.00 degrees
+Input File: 1080_2.ct
+Sequence length: 46
+Using 356.0 degrees of the circle 
+Normal exit from sir_graph.

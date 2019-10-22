@@ -1,0 +1,28 @@
+
+Structure    1
+
+Folding bases      1 to     53 of 1929 (+) RNA                                      
+ Initial dG =    -19.10
+
+        10         20       
+UGGAUU   U-|      A      CC 
+      GGA  UUGGGGU GUCGCU  \
+      CUU  GGCCCCA CAGUGA  G
+CGUGU-   UC^      C      UG 
+  50         40        30   
+
+
+
+Structure    2
+
+Folding bases      1 to     53 of 1929 (+) RNA                                      
+ Initial dG =    -18.90
+
+           10        20       
+U---|  UU  AU       A      CC 
+    GGA  GG  UUGGGGU GUCGCU  \
+    UCU  UC  GGCCCCA CAGUGA  G
+CGUG^  U-  --       C      UG 
+  50           40        30   
+
+

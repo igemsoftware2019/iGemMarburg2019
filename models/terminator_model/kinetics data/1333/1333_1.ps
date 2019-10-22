@@ -1,0 +1,486 @@
+%!PS-Adobe-3.0 EPSF-2.0 
+%%BoundingBox: 0 0 792 1072
+ 1.0 1.0 scale
+%% Created from ct or ss file by sir_graph.c, mfold 3.6
+
+%% Thu Sep 19 01:08:58 2019
+%%
+%%
+ 0.0000 0.0000 translate
+%%     This translate,scale controls zooming 
+ 1.00000 1.00000 scale
+%%
+%%
+%% defaults: 0 0 translate, 1 1 scale for full image
+%% m n translate, sc sc scale 
+%% is used to zoom about point (x,y) with scale sc 
+%% m= -1*(x*scale-396) 
+%% n= -1*(y*scale-536) 
+%% for (x,y) 0,0 is bottom left, 0<x<792, 0<y<1072
+%%
+%%
+%% To change image size for some viewers ....
+%% Either alter Bound ngBox
+%% or 1.0 1.0 scale
+%% Valid scales are .05 to 1.00
+%% ONLY scale and Bound ngBox lines above may be changed.
+%% The scale for change of size is
+%% before the translate,scale for zooming%%
+%%
+/m {moveto} def
+/l {lineto} def
+/s {stroke} def
+/a {arc} def
+%% c_rad far below defines radius of base pair dots
+%% Define colors for postscript 
+%% c_k is background, c_t is for general text
+%% c_b is bases, c_m is for main circle
+%% c_g is for connecting lines or dots for GC, CG 
+%% c_a is for connecting lines or dots for  AU,UA 
+%% c_u is for connecting   GU,UG 
+%% c_o is for connecting arcs for other 
+%% in circle graph, c_g may be used for all types 
+%% of connecting arcs
+%% c_c for header 
+%% c_n for number of label 
+%% c_l for line of label 
+%% Colors originally set in sir_graph_color.h
+/c_  { 1.000 0.871 0.678 setrgbcolor} def
+/c_k { 1.000 1.000 1.000 setrgbcolor} def
+/c_b { 0.000 0.000 0.000 setrgbcolor} def
+/c_t { 0.000 0.000 0.125 setrgbcolor} def
+/c_m { 0.188 0.188 0.188 setrgbcolor} def
+/c_g { 1.000 0.000 0.000 setrgbcolor} def
+/c_a { 0.251 0.188 0.651 setrgbcolor} def
+/c_u { 0.063 0.498 0.063 setrgbcolor} def
+/c_o { 0.816 0.808 0.078 setrgbcolor} def
+/c_c { 0.000 0.000 0.314 setrgbcolor} def
+/c_n { 0.000 0.000 0.125 setrgbcolor} def
+/c_l { 0.141 0.141 0.141 setrgbcolor} def
+/c_s { 0.000 0.000 0.000 setrgbcolor} def
+/c_x { 0.000 0.000 0.000 setrgbcolor} def
+/c_z { 1.000 1.000 1.000 setrgbcolor} def
+
+/ISOLatin1Encoding where {pop save true}{false} ifelse
+/reencodeISO {
+   dup length dict begin
+        {1 index /FID ne {def}{pop pop} ifelse} forall
+         /Encoding ISOLatin1Encoding def
+        currentdict
+    end
+} def
+/findISO {
+    dup /FontType known {
+        dup /FontType get 3 ne {
+              dup /CharStrings known {
+                 dup /CharStrings get /Thorn known {
+                     true
+                }{ false } ifelse
+            }{ false } ifelse
+       }{ false } ifelse
+     }{ false } ifelse
+} def
+ c_k
+%% Set background color
+0 0 m
+792 0 rlineto
+0 1072 rlineto
+-792 0 rlineto
+0 -1072 rlineto
+closepath
+fill
+ c_c
+/sf 9 def
+/Helvetica findfont findISO { reencodeISO /Symbol-ISO exch definefont 
+               sf scalefont setfont }
+               { sf scalefont setfont } ifelse
+15 1060.000000 moveto
+ (Output of sir_graph ©) show
+15 1049.000000 moveto
+ (mfold 3.6) show
+628.500000 1060.000000 moveto (Created Thu Sep 19 01:08:58 2019) show
+ c_t
+/Helvetica-Oblique findfont
+18 scalefont
+setfont
+198.000000 15 m
+ (dG = -15.70  [initially -13.60] 1333 (+) RNA) show
+ 1.000000 setlinewidth
+ c_m
+s
+%% Adjust the radius annotated base here
+/c_drad { 17.1150 } def 
+ c_b
+ c_b
+ 1.000000 setlinewidth
+348.44 167.20 m
+346.34 168.60 l
+s
+325.80 187.84 m
+324.26 189.85 l
+s
+310.97 214.66 m
+310.15 217.05 l
+s
+305.52 244.81 m
+305.52 247.34 l
+s
+310.03 275.12 m
+310.84 277.52 l
+s
+324.02 302.38 m
+325.55 304.39 l
+s
+345.77 324.08 m
+354.67 330.50 l
+s
+364.76 353.03 m
+362.79 371.94 l
+s
+359.83 400.31 m
+357.86 419.23 l
+s
+354.90 447.60 m
+352.93 466.51 l
+s
+349.97 494.88 m
+347.99 513.80 l
+s
+345.03 542.17 m
+343.06 561.08 l
+s
+340.10 589.45 m
+338.13 608.37 l
+s
+335.17 636.74 m
+333.19 655.65 l
+s
+330.23 684.02 m
+328.26 702.94 l
+s
+325.30 731.31 m
+323.33 750.22 l
+s
+320.37 778.59 m
+318.40 797.51 l
+s
+315.44 825.88 m
+313.46 844.79 l
+s
+310.50 873.16 m
+308.53 892.08 l
+s
+305.57 920.45 m
+303.60 939.36 l
+s
+297.60 967.08 m
+287.46 997.47 l
+s
+294.49 1019.37 m
+305.87 1027.63 l
+s
+330.44 1030.19 m
+343.28 1024.46 l
+s
+354.68 1004.48 m
+351.03 972.65 l
+s
+350.88 944.30 m
+352.86 925.38 l
+s
+355.82 897.01 m
+357.79 878.10 l
+s
+360.75 849.73 m
+362.72 830.81 l
+s
+365.68 802.44 m
+367.65 783.53 l
+s
+370.61 755.16 m
+372.59 736.24 l
+s
+375.55 707.87 m
+377.52 688.96 l
+s
+380.48 660.58 m
+382.45 641.67 l
+s
+385.41 613.30 m
+387.39 594.39 l
+s
+390.35 566.01 m
+392.32 547.10 l
+s
+395.28 518.73 m
+397.25 499.82 l
+s
+400.21 471.44 m
+402.18 452.53 l
+s
+405.14 424.16 m
+407.12 405.25 l
+s
+410.08 376.87 m
+412.05 357.96 l
+s
+418.13 330.27 m
+465.62 190.95 l
+s
+477.71 165.32 m
+487.70 149.13 l
+s
+506.97 128.95 m
+534.51 110.12 l
+s
+544.58 87.91 m
+542.78 73.02 l
+s
+528.93 51.37 m
+516.17 43.49 l
+s
+490.61 40.82 m
+476.50 45.88 l
+s
+461.15 64.83 m
+456.66 97.89 l
+s
+447.25 124.16 m
+437.26 140.34 l
+s
+ 2.000000 setlinewidth
+ c_a
+380.43 340.32 m
+399.34 342.29 l
+s
+ c_a
+375.50 387.61 m
+394.41 389.58 l
+s
+ c_g
+370.56 434.89 m
+389.48 436.87 l
+s
+ c_g
+365.63 482.18 m
+384.55 484.15 l
+s
+ c_a
+360.70 529.46 m
+379.61 531.44 l
+s
+ c_g
+355.77 576.75 m
+374.68 578.72 l
+s
+ c_a
+345.90 671.32 m
+364.81 673.29 l
+s
+ c_g
+340.97 718.60 m
+359.88 720.58 l
+s
+ c_g
+336.03 765.89 m
+354.95 767.86 l
+s
+ c_a
+331.10 813.17 m
+350.02 815.15 l
+s
+ c_a
+321.24 907.74 m
+340.15 909.72 l
+s
+ c_g
+316.30 955.03 m
+335.22 957.00 l
+s
+ c_g
+458.09 169.96 m
+441.90 159.97 l
+s
+ c_g
+483.06 129.51 m
+466.88 119.52 l
+s
+/Helvetica findfont
+28.525030 scalefont
+setfont
+ c_b
+350.79 149.76 m
+(A) show
+stroke
+324.98 167.02 m
+(A) show
+stroke
+306.06 191.65 m
+(A) show
+stroke
+296.04 221.04 m
+(A) show
+stroke
+295.98 252.09 m
+(A) show
+stroke
+305.87 281.53 m
+(C) show
+stroke
+324.69 306.23 m
+(A) show
+stroke
+356.74 329.33 m
+(A) show
+stroke
+351.80 376.62 m
+(A) show
+stroke
+346.87 423.90 m
+(G) show
+stroke
+341.94 471.19 m
+(C) show
+stroke
+337.00 518.47 m
+(U) show
+stroke
+332.07 565.76 m
+(G) show
+stroke
+327.14 613.04 m
+(C) show
+stroke
+322.21 660.33 m
+(U) show
+stroke
+317.27 707.61 m
+(G) show
+stroke
+312.34 754.90 m
+(C) show
+stroke
+307.41 802.18 m
+(U) show
+stroke
+302.48 849.47 m
+(C) show
+stroke
+297.54 896.76 m
+(U) show
+stroke
+292.61 944.04 m
+(C) show
+stroke
+273.44 1001.49 m
+(A) show
+stroke
+307.91 1026.49 m
+(A) show
+stroke
+346.80 1009.14 m
+(A) show
+stroke
+339.89 948.97 m
+(G) show
+stroke
+344.83 901.69 m
+(A) show
+stroke
+349.76 854.40 m
+(A) show
+stroke
+354.69 807.12 m
+(A) show
+stroke
+359.63 759.83 m
+(G) show
+stroke
+364.56 712.55 m
+(C) show
+stroke
+369.49 665.26 m
+(A) show
+stroke
+374.42 617.98 m
+(A) show
+stroke
+379.36 570.69 m
+(C) show
+stroke
+384.29 523.41 m
+(A) show
+stroke
+389.22 476.12 m
+(G) show
+stroke
+394.16 428.84 m
+(C) show
+stroke
+399.09 381.55 m
+(U) show
+stroke
+404.02 334.27 m
+(U) show
+stroke
+460.71 167.94 m
+(C) show
+stroke
+485.69 127.49 m
+(G) show
+stroke
+536.78 92.56 m
+(G) show
+stroke
+531.56 49.35 m
+(C) show
+stroke
+494.53 26.49 m
+(A) show
+stroke
+453.57 41.19 m
+(A) show
+stroke
+445.23 102.52 m
+(C) show
+stroke
+420.26 142.97 m
+(G) show
+stroke
+/Helvetica findfont
+23.770859 scalefont
+setfont
+ c_l
+ 0.500000 setlinewidth
+316.55 84.83 m
+(5') show
+355.38 148.45 m
+341.87 118.68 l
+s
+354.82 105.51 m
+(3') show
+419.65 146.23 m
+391.84 129.07 l
+s
+275.94 416.50 m
+(10) show
+344.56 432.18 m
+312.05 428.79 l
+s
+223.75 889.36 m
+(20) show
+295.23 905.03 m
+262.72 901.64 l
+s
+430.95 719.95 m
+(30) show
+385.89 723.29 m
+418.40 726.68 l
+s
+540.64 164.95 m
+(40) show
+505.31 143.24 m
+533.12 160.41 l
+s
+showpage
+%%EOF

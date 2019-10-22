@@ -1,0 +1,70 @@
+
+Structure    1
+
+Folding bases      1 to     49 of 560 (+) RNA                                       
+ Initial dG =    -22.40
+
+              10        20   
+GAGGC------|  AAU          A 
+           AGC   GCCCUGGUAG G
+           Ucg   CGGGACCAUC C
+UCGCUUUUUUA^  ---          U 
+        40           30      
+
+
+
+Structure    2
+
+Folding bases      1 to     49 of 560 (+) RNA                                       
+ Initial dG =    -22.40
+
+              10        20   
+---|   C---   AAU          A 
+   GAGG    AGC   GCCCUGGUAG G
+   CUUU    Ucg   CGGGACCAUC C
+UCG^   UUUA   ---          U 
+        40           30      
+
+
+
+Structure    3
+
+Folding bases      1 to     49 of 560 (+) RNA                                       
+ Initial dG =    -22.20
+
+              10        20   
+------|   C   AAU          A 
+      GAGG AGC   GCCCUGGUAG G
+      UUUU Ucg   CGGGACCAUC C
+UCGCUU^   A   ---          U 
+        40           30      
+
+
+
+Structure    4
+
+Folding bases      1 to     49 of 560 (+) RNA                                       
+ Initial dG =    -22.00
+
+                10        20   
+GA|  --------   AAU          A 
+  GGC        AGC   GCCCUGGUAG G
+  UCG        Ucg   CGGGACCAUC C
+--^  CUUUUUUA   ---          U 
+          40           30      
+
+
+
+Structure    5
+
+Folding bases      1 to     49 of 560 (+) RNA                                       
+ Initial dG =    -21.70
+
+           10        20   
+---    C| CAA           A 
+   GAGG AG   UGCCCUGGUAG G
+   CUUU UU   gCGGGACCAUC C
+UCG    U^ AUc           U 
+        40        30      
+
+

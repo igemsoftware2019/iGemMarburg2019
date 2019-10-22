@@ -1,0 +1,108 @@
+<  1227 
+GCGAAAAAAUAGCGCCCUGGUAGAGCUCUACCAGGGCAUUGCUGCCUCUAG
+ G C G A A A A A A U A G C G C        | 0.0 kcal/mol reached after 0.000  ms,  3'-end : 15 over 51 bases        # &  
+ - - - - - - - - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]       | -2.2 kcal/mol reached after 0.047  ms,  3'-end : 15 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C        | -2.2 kcal/mol reached after 3.6  ms,  3'-end : 16 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C        | -2.2 kcal/mol reached after 7.2  ms,  3'-end : 17 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U        | -2.2 kcal/mol reached after 9.0  ms,  3'-end : 18 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G        | -2.2 kcal/mol reached after 12.6  ms,  3'-end : 19 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G        | -2.2 kcal/mol reached after 16.2  ms,  3'-end : 20 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U        | -2.2 kcal/mol reached after 18.0  ms,  3'-end : 21 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A        | -2.2 kcal/mol reached after 21.6  ms,  3'-end : 22 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A G        | -2.2 kcal/mol reached after 25.2  ms,  3'-end : 23 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A G A        | -2.2 kcal/mol reached after 27.0  ms,  3'-end : 24 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A G A G        | -2.2 kcal/mol reached after 30.6  ms,  3'-end : 25 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A G A G C        | -2.2 kcal/mol reached after 34.2  ms,  3'-end : 26 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A G A G C U        | -2.2 kcal/mol reached after 36.0  ms,  3'-end : 27 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G U A G A G C U C        | -2.2 kcal/mol reached after 39.6  ms,  3'-end : 28 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - - - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C]G C C C U G G U A G A[G C U]C        | -2.4 kcal/mol reached after 39.6  ms,  3'-end : 28 over 51 bases        # &  
+ - - - - - - - - - - -2- - - - - - - - - - - - - -2' - - H    Helix numbering
+ G C G A A A A A A U[A G C]G C C C U G G U A G A[G C U]C U        | -2.4 kcal/mol reached after 42.3  ms,  3'-end : 29 over 51 bases        # &  
+ - - - - - - - - - - -2- - - - - - - - - - - - - -2' - - - H    Helix numbering
+ G C G A A A A A A U[A G C]G C C C U G G U A G A[G C U]C U A        | -2.4 kcal/mol reached after 45.1  ms,  3'-end : 30 over 51 bases        # &  
+ - - - - - - - - - - -2- - - - - - - - - - - - - -2' - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G[U A G]A G C U[C U A]       | -2.5 kcal/mol reached after 47.0  ms,  3'-end : 30 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - -4- - - - - - -4' - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G G[U A G]A G C U[C U A]C        | -2.5 kcal/mol reached after 48.8  ms,  3'-end : 31 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - - -4- - - - - - -4' - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G[G U A G]A G C U[C U A C]       | -4.9 kcal/mol reached after 48.8  ms,  3'-end : 31 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - -4- - - - - - - -4' - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U G[G U A G]A G C U[C U A C]C        | -4.9 kcal/mol reached after 51.2  ms,  3'-end : 32 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - - -4- - - - - - - -4' - - - H    Helix numbering
+ G C G A A A A A A U A G C G C C C U[G G U A G]A G C U[C U A C C]       | -6.4 kcal/mol reached after 51.2  ms,  3'-end : 32 over 51 bases        # &  
+ - - - - - - - - - - - - - - - - - - -4- - - - - - - - -4' - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U[G G U A G]A G C U[C U A C C]       | -8.7 kcal/mol reached after 51.2  ms,  3'-end : 32 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - -4- - - - - - - - -4' - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C U[G G U A G]A G C U[C U A C C]A        | -8.7 kcal/mol reached after 54.2  ms,  3'-end : 33 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - - -4- - - - - - - - -4' - - - - H    Helix numbering
+ G C G A A A A A A U[A G C]G C C C[U G G U A G]A[G C U^C U A C C A]       | -9.0 kcal/mol reached after 54.2  ms,  3'-end : 33 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - - - - - -4- - - - - - -2' - -4' - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C[U G G U A G]A G C U[C U A C C A]       | -9.6 kcal/mol reached after 56.2  ms,  3'-end : 33 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - -4- - - - - - - - - -4' - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C C[U G G U A G]A G C U[C U A C C A]G        | -9.6 kcal/mol reached after 58.0  ms,  3'-end : 34 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - - -4- - - - - - - - - -4' - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C[C U G G U A G]A G C U[C U A C C A G]       | -11.8 kcal/mol reached after 58.0  ms,  3'-end : 34 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - -4- - - - - - - - - - -4' - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C]C[C U G G U A G]A G C U[C U A C C A G]G        | -11.8 kcal/mol reached after 61.5  ms,  3'-end : 35 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - - -4- - - - - - - - - - -4' - - - - - - H    Helix numbering
+ G C G A A A A A A U A G C G C[C C U G G U A G]A G C U[C U A C C A G G]       | -12.5 kcal/mol reached after 61.5  ms,  3'-end : 35 over 51 bases        # &  
+ - - - - - - - - - - - - - - - -4- - - - - - - - - - - -4' - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C^C C U G G U A G]A G C U[C U A C C A G G]       | -14.7 kcal/mol reached after 61.6  ms,  3'-end : 35 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - -4- - - - - - - - - - - -4' - - - - - - H    Helix numbering
+[G C G]A A A A A A U A G[C G C^C C U G G U A G]A G C U[C U A C C A G G]G        | -14.7 kcal/mol reached after 63.3  ms,  3'-end : 36 over 51 bases        # &  
+ -1- - - - - - - - - - - -1' - -4- - - - - - - - - - - -4' - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C]G[C C C U G G U A G]A[G C U^C U A C C A G G G]       | -15.7 kcal/mol reached after 63.5  ms,  3'-end : 36 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - - -4- - - - - - - - - -2' - -4' - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C]G[C C C U G G U A G]A[G C U^C U A C C A G G G]C        | -15.7 kcal/mol reached after 66.5  ms,  3'-end : 37 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - - -4- - - - - - - - - -2' - -4' - - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]       | -18.1 kcal/mol reached after 66.5  ms,  3'-end : 37 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A        | -18.1 kcal/mol reached after 69.4  ms,  3'-end : 38 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A U        | -18.1 kcal/mol reached after 72.4  ms,  3'-end : 39 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A U U        | -18.1 kcal/mol reached after 75.5  ms,  3'-end : 40 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A U U G        | -18.1 kcal/mol reached after 78.6  ms,  3'-end : 41 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - - - - H    Helix numbering
+ G C G A A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A U U G C        | -18.1 kcal/mol reached after 82.0  ms,  3'-end : 42 over 51 bases        # 2 &  
+ - - - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - - - - - H    Helix numbering
+[G C G A]A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A[U U G C]       | -18.9 kcal/mol reached after 82.1  ms,  3'-end : 42 over 51 bases        # 2 &  
+ -6- - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - -6' - - H    Helix numbering
+[G C G A]A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A[U U G C]U        | -18.9 kcal/mol reached after 84.0  ms,  3'-end : 43 over 51 bases        # 2 &  
+ -6- - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - -6' - - - H    Helix numbering
+[G C G A]A A A A A U[A G C^G C C C U G G U A]G A[G C U]C[U A C C A G G G C]A[U U G C]U G        | -18.9 kcal/mol reached after 88.2  ms,  3'-end : 44 over 51 bases        # 2 &  
+ -6- - - - - - - - - -2- - -4- - - - - - - - - - -2' - - -4' - - - - - - - - -6' - - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A]G A G C U C[U A C C A G G G C]A U U[G C U G]       | -20.6 kcal/mol reached after 88.5  ms,  3'-end : 44 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - - -4' - - - - - - - - - - -10'- - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A]G A G C U C[U A C C A G G G C]A U U[G C U G]C        | -20.6 kcal/mol reached after 91.5  ms,  3'-end : 45 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - - -4' - - - - - - - - - - -10'- - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A]G A G C U C[U A C C A G G G C]A U U[G C U G]C C        | -20.6 kcal/mol reached after 94.3  ms,  3'-end : 46 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - - -4' - - - - - - - - - - -10'- - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A]G A G C U C[U A C C A G G G C]A U U[G C U G]C C U        | -20.6 kcal/mol reached after 96.2  ms,  3'-end : 47 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - - -4' - - - - - - - - - - -10'- - - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A]G A G C U C[U A C C A G G G C]A U U[G C U G]C C U C        | -20.6 kcal/mol reached after 99.7  ms,  3'-end : 48 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - - -4' - - - - - - - - - - -10'- - - - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A G]A G C U[C U A C C A G G G C]A U U[G C U G]C C U C        | -22.9 kcal/mol reached after 99.7  ms,  3'-end : 48 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - -4' - - - - - - - - - - - -10'- - - - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A G]A G C U[C U A C C A G G G C]A U U[G C U G]C C U C U        | -22.9 kcal/mol reached after 102.7  ms,  3'-end : 49 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - -4' - - - - - - - - - - - -10'- - - - - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A G]A G C U[C U A C C A G G G C]A U U[G C U G]C C U C U A        | -22.9 kcal/mol reached after 106.8  ms,  3'-end : 50 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - -4' - - - - - - - - - - - -10'- - - - - - - - H    Helix numbering
+ G C G A A A A A A[U A G C^G C C C U G G U A G]A G C U[C U A C C A G G G C]A U U[G C U G]C C U C U A G        | -22.9 kcal/mol reached after 109.8  ms,  3'-end : 51 over 51 bases        # &  
+ - - - - - - - - - -10 - - -4- - - - - - - - - - - - - -4' - - - - - - - - - - - -10'- - - - - - - - - H    Helix numbering
