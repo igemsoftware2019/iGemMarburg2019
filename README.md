@@ -19,10 +19,30 @@ The number of parameters given to the script to train is unlimited, there is no 
 
 #### Terminator Model
 
+Kinetics and thermodynamic data for an already filtered list of natural intrinsic terminators of S. elongatus UTEX 2973. The data was mostly generated using MFOLD and KineFold.  
+A. Xayaphoummine, T. Bucher & H. Isambert,  
+Kinefold web server for RNA/DNA folding path and structure prediction including pseudoknots and knots,
+Nucleic Acid Res., 33, 605-610 (2005)
+
+M. Zuker, D. H. Mathews & D. H. Turner.  
+Algorithms and Thermodynamics for RNA Secondary Structure Prediction: A Practical Guide
+In RNA Biochemistry and Biotechnology, 11-43,  
+J. Barciszewski and B. F. C. Clark, eds.,  
+NATO ASI Series, Kluwer Academic Publishers, Dordrecht, NL, (1999)
 
 
-### GUIDE and Cloning Protocols
 
+### Colony Picking GUI and GUIDE (Graphical User Interface for Directed Engineering)
+
+#### Colony Picking GUI
+
+A simple graphical user interface for our implimentation of colony picking in Opentron OT-2. Its implemented in Python and uses the kivy libraries. Please keep in mind that this is a alpha version and still contains bug. We will continuously improve this over the upcoming months.
+
+#### GUIDE (Graphical User Interface for Directed Engineering)
+
+An easy to use graphical user interface for the overview and execution of OT-2 protocols.
+It was created in C sharp for the BioHackathon2019 organised by iGEM Vilnius.
+Please keep in mind that this is an alpha version and therefore might contain bugs.
 
 
 ### Promega Plasmid Purification Protocols
