@@ -20,6 +20,7 @@ The number of parameters given to the script to train is unlimited, there is no 
 #### Terminator Model
 
 Kinetics and thermodynamic data for an already filtered list of natural intrinsic terminators of S. elongatus UTEX 2973. The data was mostly generated using MFOLD and KineFold.  
+
 A. Xayaphoummine, T. Bucher & H. Isambert,  
 Kinefold web server for RNA/DNA folding path and structure prediction including pseudoknots and knots,
 Nucleic Acid Res., 33, 605-610 (2005)
